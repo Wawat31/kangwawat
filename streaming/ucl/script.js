@@ -21,7 +21,7 @@ setTimeout(videovisible, 4000)
 function videovisible() {
     document.getElementById('loading')
 }
-var url="https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8";
+var url="https://hls.uouetrq19.com/live/hd-en-6MtJQX23buaGuQdiHD.m3u8?txSecret=01d521e92cf0556c3efa175ec193bf01&txTime=67D1E7C7";
 
 var video = document.getElementById('video');
  if (Hls.isSupported()) {
