@@ -21,7 +21,7 @@ setTimeout(videovisible, 4000)
 function videovisible() {
     document.getElementById('loading')
 }
-var url="https://hls.uouetrq19.com/live/hd-en-6MtJQX23mEGV1RsA1m.m3u8?txSecret=d04819a17f35d725156fbe2f935220e9&txTime=67D31A53";
+var url="https://hls.uouetrq19.com/live/hd-en-6MsG9jCyEuZeA2Kpbq.m3u8?txSecret=9d3b40d5538d42df335817c0cce1f22c&txTime=67DDAF3B";
 
 var video = document.getElementById('video');
  if (Hls.isSupported()) {
