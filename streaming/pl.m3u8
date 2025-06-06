@@ -1,0 +1,195 @@
+<meta charset="UTF-8" content="text/html"/>
+<meta name="viewport" content="width = device-width, initial-scale = 1"/>
+<meta name="robots" content="noindex, nofollow"/>
+<meta http-equiv="refresh" content="0; url = https://dwtv.my.id/"/>
+
+<html>
+    <head>
+        <title>https://kangwawat.web.id</title>
+    </head>
+    <body>
+        <p>dwtv.my.id</p>
+    <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon='{"rayId":"827d3508888844c3","r":1,"version":"2023.10.0","token":"6d37dd6e19154f3bbbeb77b0d16d949b"}' crossorigin="anonymous"></script>
+</body>
+    <div style="display:none;">
+</html>
+
+<meta charset="UTF-8" content="text/html"/>
+<meta name="viewport" content="width = device-width, initial-scale = 1"/>
+<meta name="robots" content="noindex, nofollow"/>
+<meta http-equiv="refresh" content="0; url = https://kangwawat.web.id"/>
+
+<html>
+    <head>
+        <title>dwtv.my.id</title>
+    </head>
+    <body>
+        <script src="./anti-inspect-element.js"></script>
+        <p>dwtv.my.id</p>
+    <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon='{"rayId":"827d3508888844c3","r":1,"version":"2023.10.0","token":"6d37dd6e19154f3bbbeb77b0d16d949b"}' crossorigin="anonymous"></script>
+</body>
+    <div style="display:none;">
+</html>
+
+
+
+
+=============================
+======== TV Nasional ========
+=============================
+
+
+# INEWS
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m30wXj8_d.webp?maxwidth=760&fidelity=grand" group-title="TV NASIONAL",INEWS
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+
+
+# MNCTV
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be5ef52a5904/441b76dc2d004adda2945df43736dd02.png" group-title="TV NASIONAL",MNCTV
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+
+# RCTI
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be51092e58f1/9eec8914d4f74ee5a5f4d988c2965902.png" group-title="TV NASIONAL",RCTI
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
+# GTV
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be52f87b58f2/ffb50ac11f9f42758882f58ff62273be.png" group-title="TV NASIONAL",GTV
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+
+# INDOSIAR
+#EXTINF:-1 tvg-id="" group-title="TV NASIONAL" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png",INDOSIAR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://khano.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
+
+# ANTV
+#EXTINF:-1 tvg-id="8" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68585a0014401863437adf82243/08882f0d830a45f9800649ee6536e6e8.png" group-title="TV NASIONAL",ANTV
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=antv
+
+# SCTV
+#EXTINF: -1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be4d55ce58dd/7862982cb44d4e8bbc61a630beca66f6.png" group-title="TV NASIONAL", SCTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
+https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://khano.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847a.m3u8
+
+# NET
+#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" group-title="TV NASIONAL" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c685758bcfff01776c4ea3520a72/dfbeb8234b8d4794be107648d83c57ac.png",NET.
+https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+
+# TVONE
+#EXTINF:-1 tvg-id="7" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68585a001440186343e1a562244/509958d1f3ef43f59d1ce189ed9a5296.png" group-title="TV NASIONAL",TVONE
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvOne
+
+# KOMPAS TV
+#EXTINF:-1 tvg-id="14" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be58644c5901/87b349f225fa4b0b839447d943a63b5f.jpg" group-title="TV NASIONAL",KOMPAS TV
+https://streaming.indihometv.com/atm/hlsv3/KOMPAS_TV/playlist.m3u8
+
+# RTV
+#EXTINF:-1 group-title="TV NASIONAL" tvg-id="RajawaliTV.id" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be5cd0b15903/bb1a5397f68d42899630a14334c359aa.jpg",RTV
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+
+# TRANS 7
+#EXTINF:-1 group-title="TV NASIONAL" tvg-id="Trans7.id" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be45631158d9/2165ad80418941528715202210307fb6.jpg",TRANS 7
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+
+# TRANSTV
+#EXTINF:-1 group-title="TV NASIONAL" tvg-id="TransTV.id" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be43042758d8/36f75de0a5b543da8d17c46db9d44178.jpg",TRANS TV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+
+# CNN 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be4997e958db/e02f3053b96f4349ad8402d7b181d273.jpg" group-title="TV NASIONAL",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w733133162_b384000_sleng.m3u8
+
+# CNBC
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be4b82c758dc/2ab30598ad294ca7b817b9ed1202c11f.jpg" tvg-url="https://bit.ly/JejeVisionEPG" group-title="TV NASIONAL",CNBC
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u
+
+# MOJI
+#EXTINF:0 tvg-logo="https://iili.io/JMp3vUJ.png" group-title="TV NASIONAL",MOJI CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+http://cdn.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
+
+
+# METRO 
+#EXTINF:-1 group-title="TV NASIONAL" tvg-id="MetroTV.id" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be4783ff58da/dd0e5afbeb2b4a7e802b4fbacce14991.png",METRO TV
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+
+# TVRI
+#EXTINF:-1 tvg-id="17" tvg-logo="https://www.dens.tv/images/channel-logo/17.jpg" group-title="TV NASIONAL", TVRI
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TVRI
+
+# RODJA
+#EXTINF:-1 tvg-id="21" tvg-logo="https://www.dens.tv/images/channel-logo/21.jpg" group-title="TV NASIONAL",RODJA TV
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/s/s14/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=RodjaTV
+
+# VTV
+#EXTINF:-1 group-title="TV NASIONAL" tvg-id="vtv.id" tvg-logo="https://i.imgur.com/V7lm9Sv.png",VTV
+#EXTVLCOPT:http-user-agent=YouTV/1.8.1-prod.release+d73ba1cb (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch107.m3u8
+
+
+# TVRI JABAR
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/5CW0d2Z.png" group-title="TV NASIONAL",TVRI JABAR
+https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar-avc1_900000=10006-mp4a_96000=20001.m3u8
+
+# Magna
+#EXTINF:-1 tvg-id="122" tvg-logo="https://i.imgur.com/NLE0zAx.png" group-title="TV NASIONAL", MAGNA CHANNEL
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Magna_Channel
+
+# IDTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xJEAIhd_d.webp?maxwidth=760&fidelity=grand" group-title="TV NASIONAL",IDTV
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+
+# ELSHINTA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wf66xVw_d.webp?maxwidth=760&fidelity=grand" group-title="TV NASIONAL",ELSHINTA TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
+
+# GARUDA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="GARUDA TV" tvg-logo="https://i.imgur.com/VgwyvWu_d.webp?maxwidth=760&fidelity=grand" group-title="TV NASIONAL",GARUDA TV
+https://hgmtv.com:19360/garudatvlivestreaming/576p.m3u8
+
+# BTV
+#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="https://i.imgur.com/UFiCoU9_d.webp?maxwidth=760&fidelity=grand" group-title="TV NASIONAL",BTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8?app_type=web&userid=lite&chname=BTV
+
+# NUSANTARA
+#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="https://i.imgur.com/WW9mqfQ.png" group-title="TV NASIONAL",NUSANTARA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8?app_type=web&userid=lite&chname=Nusantara_TV_NTV-
+
+# Maxtream
+#EXTINF:-1 tvg-id="" tvg-name="MAXTREAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/300px-Logo_MAX_horizontal_on_white_.jpg" group-title="TV NASIONAL",MAXTREAM
+https://streaming.indihometv.com/joss/194/maxstream/playlist.m3u8
