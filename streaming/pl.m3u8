@@ -45,6 +45,7 @@
 ========= EVENT=======
 ========================
 #EXTINF:-1 group-title="EVENT" tvg-id="Trans7.id" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be45631158d9/2165ad80418941528715202210307fb6.jpg",FEED 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_18851_720p/hdntl=exp=1749354627~acl=%2flive%2f18851%2fmaster.m3u8!%2fhls-p%2fingest_18851*%2f*!%2fhls-b%2fingest_18851*%2f*~id=136313143~data=hdntl~hmac=f611c206531e8f22165d00ff5f682a66142ab9800b52e8e064c04a2b450c9393/index.m3u8
 
 
