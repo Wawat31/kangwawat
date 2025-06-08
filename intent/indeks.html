@@ -2,16 +2,27 @@
 <html lang="id">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Play M3U8 di NS Player</title>
   <style>
+    body {
+      font-family: sans-serif;
+      text-align: center;
+      padding: 50px;
+      background-color: #f4f4f4;
+    }
+
     .btn {
       display: inline-block;
-      padding: 12px 24px;
-      background: #ff9900;
+      padding: 14px 28px;
+      font-size: 18px;
+      background-color: #ff9900;
       color: white;
+      border: none;
+      border-radius: 10px;
       text-decoration: none;
-      font-size: 16px;
-      border-radius: 8px;
+      cursor: pointer;
+      transition: background 0.3s;
     }
 
     .btn:hover {
@@ -21,8 +32,11 @@
 </head>
 <body>
 
+  <h2>Putar Video</h2>
+  <p>Tap tombol di bawah untuk memutar video langsung di NS Player</p>
+
   <a class="btn"
-     href="intent://example.com/stream/video.m3u8#Intent;type=application/x-mpegURL;scheme=https;package=com.nst.play;end;">
+     href="intent://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_18851_240p/hdntl=exp=1749367873~acl=%2flive%2f18851%2fmaster.m3u8!%2fhls-p%2fingest_18851*%2f*!%2fhls-b%2fingest_18851*%2f*~id=136313143~data=hdntl~hmac=bb85dde3fb1f31b520379b10927d99e6a96c59fa5a705eadb703059c573171a8/index.m3u8#Intent;type=application/x-mpegURL;scheme=https;package=com.nst.play;S.browser_fallback_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.nst.play;end;">
      ▶️ Putar di NS Player
   </a>
 
