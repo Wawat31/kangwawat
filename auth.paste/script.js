@@ -1,6 +1,9 @@
 function copyText() {
-  const text = document.getElementById("textToCopy");
-  text.select();
-  text.setSelectionRange(0, 99999); // untuk mobile
-  document.execCommand("copy");
-  alert("Teks berhasil disalin: " + text.value);
+  const text = document.getElementById("textToCopy").value;
+
+  navigator.clipboard.writeText(text).then(() => {
+    alert("Teks berhasil disalin: " + text);
+  }).catch(err => {
+    alert("Gagal menyalin teks: " + err);
+  });
+}
