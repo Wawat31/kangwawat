@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Buka Link M3U8 - NS Player</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    padding: 2rem;
+    background: #f0f4f8;
+    color: #333;
+    text-align: center;
+  }
+  button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 1rem 2rem;
+    font-size: 1.2rem;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  button:hover {
+    background-color: #0056b3;
+  }
+  p {
+    margin-bottom: 2rem;
+    font-size: 1rem;
+  }
+</style>
+</head>
+<body>
+
+<h1>Buka Stream M3U8</h1>
+<p>Link streaming kamu siap dibuka dengan aplikasi pemutar yang mendukung (.m3u8)</p>
+
+<button id="btnOpen">▶️ Buka Link Stream</button>
+
+<script>
+  const videoUrl = "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_18851_720p/hdntl=exp=1749367873~acl=%2flive%2f18851%2fmaster.m3u8!%2fhls-p%2fingest_18851*%2f*!%2fhls-b%2fingest_18851*%2f*~id=136313143~data=hdntl~hmac=bb85dde3fb1f31b520379b10927d99e6a96c59fa5a705eadb703059c573171a8/index.m3u8";
+
+  document.getElementById("btnOpen").addEventListener("click", () => {
+    // Buka di tab baru / app sesuai browser/device
+    window.open(videoUrl, "_blank");
+  });
+</script>
+
+</body>
+</html>
