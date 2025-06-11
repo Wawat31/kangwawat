@@ -36,6 +36,10 @@
 ======================
 ======= VNL ==========
 ======================
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ge8jkaQMh6UXSVxfL_vgnbKdlobM8Yy0Eg&s" group-title="VNL 2025",Polsat Sports 1
+https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium47/mono.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be51092e58f1/9eec8914d4f74ee5a5f4d988c2965902.png" group-title="VNL 2025",EVENT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://ab1.dbcast.live/ergvb2.m3u8?m=itJjQ78fk2qhUKlK43U5HQ&c=vb2&p=3130332e3137312e38352e313738&e=1749657203
