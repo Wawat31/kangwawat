@@ -247,7 +247,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 # GTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be52f87b58f2/ffb50ac11f9f42758882f58ff62273be.png" group-title="TV NASIONAL",GTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pZkZy61_d.webp?maxwidth=760&fidelity=grand" group-title="TV NASIONAL",GTV
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 # INDOSIAR
