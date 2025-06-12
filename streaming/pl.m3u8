@@ -311,7 +311,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w733133162_b3840
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u
 
 # MOJI
-#EXTINF:0 tvg-logo="https://iili.io/JMp3vUJ.png" group-title="TV NASIONAL",MOJI CHANNEL
+#EXTINF:0 tvg-logo="https://i.imgur.com/jM9squE.png" group-title="TV NASIONAL",MOJI CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
