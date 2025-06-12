@@ -264,7 +264,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
 http://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=antv
 
 # SCTV
-#EXTINF: -1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be4d55ce58dd/7862982cb44d4e8bbc61a630beca66f6.png" group-title="TV NASIONAL", SCTV
+#EXTINF: -1 tvg-logo="https://i.imgur.com/M02wLeQ_d.webp?maxwidth=760&fidelity=grand" group-title="TV NASIONAL", SCTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
