@@ -281,7 +281,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvOne
 
 # KOMPAS TV
-#EXTINF:-1 tvg-id="14" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be58644c5901/87b349f225fa4b0b839447d943a63b5f.jpg" group-title="TV NASIONAL",KOMPAS TV
+#EXTINF:-1 tvg-id="14" tvg-logo="https://i.imgur.com/h3lP29t_d.webp?maxwidth=760&fidelity=grand" group-title="TV NASIONAL",KOMPAS TV
 https://streaming.indihometv.com/atm/hlsv3/KOMPAS_TV/playlist.m3u8
 
 # RTV
