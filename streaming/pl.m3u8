@@ -357,8 +357,8 @@ https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar-avc1_900000=10006-mp4a_
 http://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Magna_Channel
 
 # IDTV
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xJEAIhd_d.webp?maxwidth=760&fidelity=grand" group-title="TV NASIONAL",IDTV
-https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+#EXTINF:-1 tvg-id="IDTV.id" tvg-name="IDTV" tvg-logo="https://i.imgur.com/xJEAIhd_d.webp?maxwidth=760&fidelity=grand" group-title="TV NASIONAL",IDTV
+https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8|referer=https://investor.id/&origin=https://investor.id&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
 # ELSHINTA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wf66xVw_d.webp?maxwidth=760&fidelity=grand" group-title="TV NASIONAL",ELSHINTA TV
