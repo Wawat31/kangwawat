@@ -291,12 +291,12 @@ https://streaming.indihometv.com/atm/hlsv3/KOMPAS_TV/playlist.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 
 # TRANS 7
-#EXTINF:-1 group-title="TV NASIONAL" tvg-id="Trans7.id" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be45631158d9/2165ad80418941528715202210307fb6.jpg",TRANS 7
+#EXTINF:-1 group-title="TV NASIONAL" tvg-id="Trans7.id" tvg-logo="https://i.imgur.com/Ha9IPdE_d.webp?maxwidth=760&fidelity=grand",TRANS 7
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
 # TRANSTV
-#EXTINF:-1 group-title="TV NASIONAL" tvg-id="TransTV.id" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be43042758d8/36f75de0a5b543da8d17c46db9d44178.jpg",TRANS TV
+#EXTINF:-1 group-title="TV NASIONAL" tvg-id="TransTV.id" tvg-logo="https://i.imgur.com/LChYCLc_d.webp?maxwidth=760&fidelity=grand",TRANS TV
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
