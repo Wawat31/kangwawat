@@ -285,7 +285,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&amp;userid
 https://streaming.indihometv.com/atm/hlsv3/KOMPAS_TV/playlist.m3u8
 
 # RTV
-#EXTINF:-1 group-title="TV NASIONAL" tvg-id="RajawaliTV.id" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be5cd0b15903/bb1a5397f68d42899630a14334c359aa.jpg",RTV
+#EXTINF:-1 group-title="TV NASIONAL" tvg-id="RajawaliTV.id" tvg-logo="https://i.imgur.com/Ur4zJrC_d.webp?maxwidth=760&fidelity=grand",RTV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
