@@ -275,7 +275,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847a.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 
 # TVONE
-#EXTINF:-1 tvg-id="7" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68585a001440186343e1a562244/509958d1f3ef43f59d1ce189ed9a5296.png" group-title="TV NASIONAL",TVONE
+#EXTINF:-1 tvg-id="7" tvg-logo="https://i.imgur.com/TasqwIo_d.webp?maxwidth=760&fidelity=grand" group-title="TV NASIONAL",TVONE
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvOne
