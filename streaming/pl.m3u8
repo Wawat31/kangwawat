@@ -489,6 +489,20 @@ https://streaming.indihometv.com/joss/194/maxstream/playlist.m3u8
 =====================
 ====== KIDS =========
 =====================
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/DeiKidsTv%20.png" group-title="KIDS" ,DEI KIDS TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://e.siar.us/live/deikidstv.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=780f283e8dd84dc195d93899ea9fcabe:59103ac45e9c5e411651e3fa26a2e6d9
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="ZooMoo.sg" tvg-name="Zoomoo" tvg-logo="https://www.visionplus.id/images/repository/626/626-LOGO-m.png" group-title="KIDS", Zoomoo 
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
+https://fta3-cdn-flr.visionplus.id/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
+https://av-ch-cdn.mncnow.id/live/eds/Zoomoo/sa_dash/Zoomoo.mpd
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef4d19eafa0d4dcbb6a247e13753caab:a693256564fea641b5c4fc59adbdcf10
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
