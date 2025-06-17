@@ -263,7 +263,17 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TV9/mpd/TV9.mpd
 https://gist.githubusercontent.com/warningfm/77f2924b54e00133bffffc38f53b2726/raw/66ff888b79e2838c3ddc5fbb9d26df1e96a81cc6/71b5c8483161297.m3u8
 
 
+#EXTINF:-1 tvg-id="rodja.id" tvg-name="Rodja TV" tvg-logo="https://warningfm.github.io/v3/img/Vatwmkj.png?v=1.0.0.1" group-title="RELIGI", RODJA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://rodjatv.com/rodjatv/live.m3u8
 
+#EXTINF:-1 tvg-id="wesal.id" tvg-name="Wesal TV" tvg-logo="https://warningfm.github.io/v3/img/Vatwmkj.png?v=1.0.0.1" group-title="RELIGI", WESAL TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
+
+#EXTINF:-1 tvg-id="surau.id" tvg-name="Surau TV" tvg-logo="https://warningfm.github.io/v3/img/Vatwmkj.png?v=1.0.0.1" group-title="RELIGI", SURAU TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://surautv.siar.us/live/surautv.m3u8
 
 
 =============================
