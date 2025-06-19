@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>DorXL-Allxd</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    @keyframes fadeSlideUp {
+      0% {
+        opacity: 0;
+        transform: translateY(20px);
+      }
+      100% {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+    .animate-fadeSlideUp {
+      animation: fadeSlideUp 1s ease-out forwards;
+    }
+  </style>
+</head>
+<body class="min-h-screen bg-gradient-to-br from-blue-800 to-blue-500 flex items-center justify-center text-white text-center px-4">
+
+  <div class="max-w-md w-full space-y-6 animate-fadeSlideUp">
+    <!-- Logo -->
+    <img src="https://via.placeholder.com/300x80?text=DorXL-Allxd" alt="DorXL Logo" class="mx-auto rounded-lg shadow-md" />
+
+    <!-- Judul -->
+    <h1 class="text-3xl font-bold">DorXL–Allxd</h1>
+
+    <!-- Deskripsi -->
+    <p class="text-lg text-white/90">
+      Platform terpercaya untuk semua kebutuhan kuota dan produk digital Anda. Cepat, mudah, dan aman.
+    </p>
+
+    <!-- Tombol Aksi -->
+    <div class="space-y-3">
+      <a href="/login" class="block w-full bg-cyan-500 hover:bg-cyan-600 text-white font-semibold py-3 rounded-xl shadow-md transition">
+        Login
+      </a>
+      <a href="/register" class="block w-full bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-3 rounded-xl shadow-md transition">
+        Daftar Sekarang
+      </a>
+    </div>
+  </div>
+
+</body>
+</html>
