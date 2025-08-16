@@ -801,6 +801,21 @@ https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lsda
 #KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
 https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd?encoding=segmentBase
 
+#EXTINF:-1 group-title="PRIVATE",STREAM 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://morgan.h3eaulperhapsfuzkhurried.shop/
+https://fhlsport121.fgs37g8.xyz/token-dkd8zrecevKG6zEtxvY6mG%2FVlJvbhnjjZCb5w6hLFjf37rLNHUFdD48vqxFAW0lJBD2Lyjxkmg%3D%3Da/cfall/s6/v3b/qs343r64nUE0pUZ6Yl9mYJZmYaEiq3Eio21uYz5yqN%3D%3D/plyvivo/8o3acu60sesag0g0wawi/chunklist.m3u8
+
+#EXTINF:-1 group-title="PRIVATE",STREAM 2
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.0
+#EXTVLCOPT:http-referrer=https://moviesource.com/
+https://moviesource.com/hbo/stream.m3u8
+
+#EXTINF:-1 group-title="PRIVATE",STREAM 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://musicstream.com/
+https://musicstream.com/mtvlive/index.m3u8
+
 
 
 
