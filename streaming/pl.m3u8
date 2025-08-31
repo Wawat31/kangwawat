@@ -55,32 +55,19 @@ https://fhlsport121.fgs37g8.xyz/token-LE97nbXBe%2FGG6WwvwvY6zGKElMOBgi3jOCWrxPdP
 https://musicstream.com/mtvlive/index.m3u8
 
 
-======================
-====== FIFA Club =====
-======================
-
-#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be51092e58f1/9eec8914d4f74ee5a5f4d988c2965902.png" group-title="FIFA CLUB™",EVENT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://hls.zb252398829.com/sport/202_3680211_2/playlist.m3u8?wsSecret=e4e08abb4b2eb8eb4a7e61efba57acbd&wsABSTime=68799c7a
-
-#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be51092e58f1/9eec8914d4f74ee5a5f4d988c2965902.png" group-title="FIFA CLUB™",EVENT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://nobar.fzstream.com/stream/18/chunks.m3u8?token=nobar-aa6218a9-fe71-46d8-b00f-9c7aa8542e3b&is_vip=true&verify=1750263960-VnmQjA3SovGUnpR7KYsdFyr0SW8CnAwD2%2FBOSD%2FTCeM%3D
-
-
 
 ======================
-======= vpn event ==========
+=======VPN EVENT======
 ======================
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ge8jkaQMh6UXSVxfL_vgnbKdlobM8Yy0Eg&s" group-title="VPN LIVE",FEE 1
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ge8jkaQMh6UXSVxfL_vgnbKdlobM8Yy0Eg&s" group-title="VPN LIVE",LIVE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://a27.azplay12.me/hls/streama237516/index.m3u8?cst=a055a724fa37d07b9d00068173e9dfb1
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ge8jkaQMh6UXSVxfL_vgnbKdlobM8Yy0Eg&s" group-title="VPN LIVE",FEE 2
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ge8jkaQMh6UXSVxfL_vgnbKdlobM8Yy0Eg&s" group-title="VPN LIVE",LIVE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://a94.azplay12.me/hls/streama238091/index.m3u8?cst=45e2376a838c4e5e31635774f86c260d
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ge8jkaQMh6UXSVxfL_vgnbKdlobM8Yy0Eg&s" group-title="VPN LIVE",FEE 3
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ge8jkaQMh6UXSVxfL_vgnbKdlobM8Yy0Eg&s" group-title="VPN LIVE",LIVE 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://a101.azplay12.me/hls/streama238199/index.m3u8?cst=3a72068d6ae219f86a5f18dd9feac1e6
 
