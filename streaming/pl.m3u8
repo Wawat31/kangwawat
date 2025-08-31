@@ -39,6 +39,17 @@
 #EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ge8jkaQMh6UXSVxfL_vgnbKdlobM8Yy0Eg&s" group-title="PERSIB LIVE",LIVE 1
 https://hls.suanzsd6.com/hd-en-6MuT7JwYQJ9VMzE2zT.m3u8?txSecret=f5059537377b2e01662cd3093d7eb086&txTime=68B5989B
 
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ge8jkaQMh6UXSVxfL_vgnbKdlobM8Yy0Eg&s" group-title="PERSIB LIVE",LIVE 2
+https://hls.suanzsd6.com/hd-en-6MuT7JwYQJ9VMzE2zT.m3u8?txSecret=f5059537377b2e01662cd3093d7eb086&txTime=68B5989B
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ge8jkaQMh6UXSVxfL_vgnbKdlobM8Yy0Eg&s" group-title="PERSIB LIVE",LIVE 3
+https://hls.suanzsd6.com/hd-en-6MuT7JwYQJ9VMzE2zT.m3u8?txSecret=f5059537377b2e01662cd3093d7eb086&txTime=68B5989B
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ge8jkaQMh6UXSVxfL_vgnbKdlobM8Yy0Eg&s" group-title="PERSIB LIVE",LIVE 4
+https://hls.suanzsd6.com/hd-en-6MuT7JwYQJ9VMzE2zT.m3u8?txSecret=f5059537377b2e01662cd3093d7eb086&txTime=68B5989B
+
+
+
 EXTINF:-1 group-title="VIP Premium" tvg-id="MetroTV.id" tvg-logo="https://i.imgur.com/Yu7Qwm4.png",STREAM 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://morgan.h3eaulperhapsfuzkhurried.shop/
