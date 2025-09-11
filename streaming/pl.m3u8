@@ -42,7 +42,7 @@ https://hls.suanzsd6.com/sd-6MuSsKaN2GxxqvemD1.m3u8?txSecret=df246223cbd7e5c888c
 ====== TIMNAS LIVE ===
 ======================
 
-#EXTINF:-1 tvg-id="Indosiar.my.id" tvg-name="Indosiar ᴴᴰ" tvg-logo="https://i.imgur.com/d0ZTNHx_d.webp?maxwidth=760&fidelity=grand"TIMNAS", VOLI TV
+#EXTINF:-1 tvg-id="Indosiar.my.id" tvg-name="Indosiar ᴴᴰ" tvg-logo="https://i.imgur.com/d0ZTNHx_d.webp?maxwidth=760&fidelity=grand" group-title="Wawat Sports", VOLI TV
 #EXT-X-TARGETDURATION:2
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTVLCOPT:network-caching=10000
