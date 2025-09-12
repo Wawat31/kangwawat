@@ -73,7 +73,11 @@ https://bf.jlbflive.cc/live/322571_hd01.m3u8?txSecret=31ddffd933b77f17772f11678b
 ======= LIGA BRI ==========
 ======================
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/C2UKEha_d.webp?maxwidth=760&fidelity=grand" group-title="LIGA SUPER",LIVE 1
-https://hls.suanzsd6.com/sd-6MuSsKaN2GxxqvemD1.m3u8?txSecret=df246223cbd7e5c888cac4e2df15b0b6&txTime=68B709E7
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+http://103.179.182.117:6768/hls/56/56.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/C2UKEha_d.webp?maxwidth=760&fidelity=grand" group-title="LIGA SUPER",LIVE 2
 https://hls.suanzsd6.com/hd-en-6MuT7JwYQJ9VMzE2zT.m3u8?txSecret=f5059537377b2e01662cd3093d7eb086&txTime=68B5989B
