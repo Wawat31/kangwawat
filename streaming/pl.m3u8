@@ -110,17 +110,17 @@ https://musicstream.com/mtvlive/index.m3u8
 ======================
 =======VPN EVENT======
 ======================
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ge8jkaQMh6UXSVxfL_vgnbKdlobM8Yy0Eg&s" group-title="VPN LIVE",LIVE 1
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="FEED SPORTS",LIVE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://a27.azplay12.me/hls/streama237516/index.m3u8?cst=a055a724fa37d07b9d00068173e9dfb1
+https://hls.suanzsd6.com/hd-en-6MuT7JwXPwKV39ximm.m3u8?txSecret=937da048a81c378c05a6448b7c4015a9&txTime=68C6A475
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ge8jkaQMh6UXSVxfL_vgnbKdlobM8Yy0Eg&s" group-title="VPN LIVE",LIVE 2
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="FEED SPORTS",LIVE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://a94.azplay12.me/hls/streama238091/index.m3u8?cst=45e2376a838c4e5e31635774f86c260d
+https://tfp44gr5dgmttgha1hcto8yzdgptpqb4sa5dzqcssqh5df3w8o4mq8rho.100ycdn.com/pullws-gsc.hxin99.com/live/dps-59292915-saturn-wsu/playlist.m3u8?wsSecret=86fc1762c6afcc692f3f454574f200e1&wsABSTime=68c59c44&wsSession=59fbc56607c7092df566632c-175776417507215&wsIPSercert=acd9760918f556a80667d650c92d194e&wsiphost=local&wsBindIP=1
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ge8jkaQMh6UXSVxfL_vgnbKdlobM8Yy0Eg&s" group-title="VPN LIVE",LIVE 3
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="FEED SPORTS",LIVE 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://a101.azplay12.me/hls/streama238199/index.m3u8?cst=3a72068d6ae219f86a5f18dd9feac1e6
+https://hls.suanzsd6.com/hd-en-6MuT7JwXPwKV39ximm.m3u8?txSecret=e6852dffc7415a7c4babd0e2263176c6&txTime=68C6A788
 
 ======================
 ========= EVENT =======
