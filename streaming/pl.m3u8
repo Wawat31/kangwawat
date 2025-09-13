@@ -124,7 +124,7 @@ https://hls.suanzsd6.com/hd-en-6MuT7JwXQ1iSn7cZ5Z.m3u8?txSecret=1cedc51745e649cd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://live2.dktq4q.com/live/61300569_fc610398fc1f4b1313a4398b41c4aab9_nsd.m3u8
 
-#EXTINF:-1 tvg-id="channel.id" tvg-name="Channel Test Lengkap" tvg-logo="https://dummyimage.com/200x200/000/fff.png&text=Test" group-title="FEES SPORTS",LIVE 4
+#EXTINF:-1 tvg-id="channel.id" tvg-name="Channel Test Lengkap" tvg-logo="https://dummyimage.com/200x200/000/fff.png&text=Test" group-title="FEED SPORTS",LIVE 4
 https://blcdn.megame.org/live/0c1a4f5eee52/playlist.m3u8|Referer=https://live2.vachvoi.cc/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)|Origin=https://live2.vachvoi.cc
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="FEED SPORTS",LIVE 5
