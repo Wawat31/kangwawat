@@ -110,11 +110,11 @@ https://musicstream.com/mtvlive/index.m3u8
 
 
 ======================
-=======VPN EVENT======
+======= FEED EVENT======
 ======================
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="FEED SPORTS",LIVE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://v4-33832233655e82bddbc2a96c917d3165.livehwc4.com/pull.chaojiumq.com/live/hd-en-1-4358293.m3u8?txSecret=aeedf0166b6807af334fe75df4da25a5&edge_slice=true&txTime=68c55993&.m3u8&sub_m3u8=true&user_session_id=e050b6eb535e0fc5d54ac4ff8511625f
+https://hls.suanzsd6.com/hd-en-6MuSNj14DbHLED2Kuh.m3u8?txSecret=d28c1e4746788253f6039c25aa2f6baa&txTime=68C6E4EA
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="FEED SPORTS",LIVE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
