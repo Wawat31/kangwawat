@@ -118,6 +118,11 @@ https://musicstream.com/mtvlive/index.m3u8
 ======================
 ======= FEED EVENT======
 ======================
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ACL TWO",LIVE ACL 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://hls.suanzsd6.com/hd-en-6MvXc3qAskr1v4za9M.m3u8?txSecret=0be4e64dcca8d88125da1d635beeb822&txTime=68CD4939
+
+
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="FEED SPORTS",LIVE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://hls.suanzsd6.com/hd-en-6MuT7JwXQ3uvebSUET.m3u8?txSecret=05bde5c7b6ce62fbdd936a00517ae913&txTime=68C80D5C
