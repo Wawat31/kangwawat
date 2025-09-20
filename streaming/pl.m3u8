@@ -56,8 +56,6 @@ https://hls.suanzsd6.com/sd-6MuSsKaN2GxxqvemD1.m3u8?txSecret=df246223cbd7e5c888c
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 http://103.179.182.117:6768/hls/2/2.m3u8
 
-
-
 #EXTINF:-1 tvg-id="Indosiar.my.id" tvg-name="Indosiar ᴴᴰ" tvg-logo="https://i.imgur.com/d0ZTNHx_d.webp?maxwidth=760&fidelity=grand" group-title="TIMNAS", INDOSIAR FEED
 #EXT-X-TARGETDURATION:2
 #EXT-X-MEDIA-SEQUENCE:1
@@ -96,8 +94,6 @@ https://hls.suanzsd6.com/hd-en-6MuT7JwYQJ9VMzE2zT.m3u8?txSecret=f5059537377b2e01
 #EXTINF:-1 tvg-name="https://i.imgur.com/C2UKEha_d.webp?maxwidth=760&fidelity=grand" tvg-logo="https://i.imgur.com/C2UKEha_d.webp?maxwidth=760&fidelity=grand" group-title="LIGA SUPER",LIVE 4
 https://hls.suanzsd6.com/hd-en-6MuT7JwYQJ9VMzE2zT.m3u8?txSecret=f5059537377b2e01662cd3093d7eb086&txTime=68B5989B
 
-
-
 EXTINF:-1 group-title="VIP Premium" tvg-id="MetroTV.id" tvg-logo="https://i.imgur.com/Yu7Qwm4.png",STREAM 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://morgan.h3eaulperhapsfuzkhurried.shop/
@@ -113,8 +109,6 @@ https://fhlsport121.fgs37g8.xyz/token-LE97nbXBe%2FGG6WwvwvY6zGKElMOBgi3jOCWrxPdP
 #EXTVLCOPT:http-referrer=https://musicstream.com/
 https://musicstream.com/mtvlive/index.m3u8
 
-
-
 ======================
 ======= FEED EVENT======
 ======================
@@ -125,7 +119,7 @@ https://hls.suanzsd6.com/hd-en-6MvXc3qAskr1v4za9M.m3u8?txSecret=0be4e64dcca8d881
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="FEED SPORTS",LIVE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://hls.suanzsd6.com/hd-en-6MuT7JwXQ3uvebSUET.m3u8?txSecret=05bde5c7b6ce62fbdd936a00517ae913&txTime=68C80D5C
+https://hls.suanzsd6.com/hd-en-6MuT7JwXZkawTQw5Vy.m3u8?txSecret=0c1ceadd9b00b8ef2fadf2940610d9fb&txTime=68CFE0D5
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="FEED SPORTS",LIVE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
