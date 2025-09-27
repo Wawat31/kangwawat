@@ -114,12 +114,14 @@ https://musicstream.com/mtvlive/index.m3u8
 ======================
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="ACL TWO",LIVE ACL 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://hls.suanzsd6.com/hd-en-6MvXc3qAskr1v4za9M.m3u8?txSecret=0be4e64dcca8d88125da1d635beeb822&txTime=68CD4939
+
+
+
 ======================
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="FEED SPORTS",LIVE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://hls.suanzsd6.com/sd-6MuTNFj7bgMfu9n8fZ.m3u8?txSecret=166ace75245c34df00d33e135ca3d459&txTime=68D25A64
+https://doc1.crackstreamslivehd.com/global/disney16/index.m3u8?token=3fe9389bb0ee413f9cea0d748fbf362d72d65171-8d-1759032593-1758978593&ip=206.189.155.111
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="FEED SPORTS",LIVE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
