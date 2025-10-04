@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-  const source = 'https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_500000=10001-mp4a_64000_eng=20000.m3u8';
+  const source = 'https://hls.suanzsd6.com/hd-en-6MuT7JxHDfZ8XhC2sH.m3u8?txSecret=a92a00842ec86ded285f6b43d991611c&txTime=68E29C74';
   const video = document.querySelector('video');
 
   // For more options see: https://github.com/sampotts/plyr/#options
