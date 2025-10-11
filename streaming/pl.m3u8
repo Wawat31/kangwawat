@@ -72,7 +72,7 @@ http://103.179.182.117:6768/hls/2/2.m3u8
 http://103.179.182.117:6768/hls/56/56.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/d0ZTNHx_d.webp?maxwidth=760&fidelity=grand" group-title="TIMNAS",LIVE 1
-https://hls.suanzsd6.com/hd-en-6MuQ8tW9rGUz6VKqPM.m3u8?txSecret=215f0376bb7aa4da0f5486008a642dc6&txTime=68E7EDB5
+https://hls.suanzsd6.com/hd-en-6MuQ8tW9rLswqSyfh9.m3u8?txSecret=9c4f1d6a88304ab30c80bff97aec861a&txTime=68EC1214
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/d0ZTNHx_d.webp?maxwidth=760&fidelity=grand" group-title="TIMNAS",LIVE 2
 https://hls.suanzsd6.com/hd-en-6MuQ8tW9rGUz6VKqPM.m3u8?txSecret=8fb432d88bff019e13abbe86063e1081&txTime=68E7ED87
