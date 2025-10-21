@@ -129,7 +129,7 @@ https://musicstream.com/mtvlive/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="FEED SPORTS",LIVE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://hls.suanzsd6.com/hd-en-6MuT7JxGDLvc5LkdoV.m3u8?txSecret=b93b639d2b6f38cc439a075dc27f0e84&txTime=68F65511
+https://hls.suanzsd6.com/hd-en-6MvXMfc5VhdYjLsGKH.m3u8?txSecret=65053335dc86cd74132cf03ab3f47a2b&txTime=68F909F2
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="FEED SPORTS",LIVE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
