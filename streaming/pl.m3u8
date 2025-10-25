@@ -849,6 +849,15 @@ http://sweet-night-1d1d.worst.workers.dev/?id=18190&type=dash
 
 ==========================================
 
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="GB : TNT SPORTS 01" tvg-logo="http://145.239.7.84/logos/TNTSports1_Logo_White_RGB_Logo.png" group-title="Wawat Sports",GB : TNT SPORTS 01
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/258595
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="GB : TNT SPORTS 02" tvg-logo="http://145.239.7.84/logos/TNTSports2_Logo_White_RGB_Logo.png" group-title="Wawat Sports",GB : TNT SPORTS 02
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/258600
+#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="GB : TNT SPORTS 03" tvg-logo="http://145.239.7.84/logos/TNTSports3_Logo_White_RGB_Logo.png" group-title="Wawar Sports",GB : TNT SPORTS 03
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/258605
+#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="GB : TNT SPORTS 04" tvg-logo="http://145.239.7.84/logos/TNTSports4_Logo_White_RGB_Logo.png" group-title="Wawat Sports",GB : TNT SPORTS 04
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/258610
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-1-sg.png?raw=true" group-title="Wawat Sports",HUB PREMIER 1
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-premier1.m3u8?raw=true
