@@ -153,34 +153,34 @@ https://musicstream.com/mtvlive/index.m3u8
 
 ======================
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="FEED SPORTS",LIVE 1
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="FEED SPORT",LIVE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://hls.suanzsd6.com/hd-en-6MvXMfc5VhdYjLsGKH.m3u8?txSecret=65053335dc86cd74132cf03ab3f47a2b&txTime=68F909F2
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="FEED SPORTS",LIVE 2
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="FEED SPORT",LIVE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://edg00.smytdryt.live/917395911_channel2/multy.m3u8?match_id=13282913&s_id=1&t_id=1485&stats=statssport.inplaynet.tech&timestamp=1758533715&key=VTJGc2RHVmtYMS9SSjJ6S00zZlJ0cjRPb0pvcnR1NUdWbWpTNFlacGxSc044UFQrUjgrMXZwSi9uZ2k3WlpDaDUvWjBIM3I2QmJiNk5kalNIVHdlTk5nSUx3enRmSG1jNVMvcmgvV2NDbkdzMmptVXBzTFBwNTRmWC9KQmo2bnduNUdmOGJ5cjl4T0pkMjhkY2RvT0VvRklHR212TEROU0EyQ0dwVmxZd2RadmoxQzFDOCtmWEpDcVJDRStEWVBuUjRINU1kOGkySnllVEZqdFVESlV0UT09
 
 
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="FEED SPORTS",LIVE 3
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="FEED SPORT",LIVE 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://hls.suanzsd6.com/sd-6MuTNFj7bgMfu9n8fZ.m3u8?txSecret=2ab253e3d753fb7b6e8f3909d2e7adf6&txTime=68D2688D
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="FEED SPORTS",LIVE 4
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="FEED SPORT",LIVE 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://hls.suanzsd6.com/sd-6MuTNFj7bgMfu9n8fZ.m3u8?txSecret=166ace75245c34df00d33e135ca3d459&txTime=68D25A64
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="FEED SPORTS",LIVE 5
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="FEED SPORT",LIVE 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="FEED SPORTS",LIVE 6
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="FEED SPORT",LIVE 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="FEED SPORTS",LIVE 7
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="FEED SPORT",LIVE 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="FEED SPORTS",LIVE 8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="FEED SPORT",LIVE 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 
 
