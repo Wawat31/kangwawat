@@ -537,12 +537,14 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 # INDOSIAR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew12.php
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uPCKVBq_d.webp?maxwidth=760&fidelity=grand" group-title="TV NASIONAL",INDOSIAR
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
-https://fta2-cdn.streamo.cfd/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
+#https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
+
 
 
 
