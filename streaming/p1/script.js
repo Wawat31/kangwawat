@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-  const source = 'https://hls.suanzsd6.com/hd-en-6MuT7JxGDLvc5LkdoV.m3u8?txSecret=b93b639d2b6f38cc439a075dc27f0e84&txTime=68F65511';
+  const source = 'https://fhlsport301.tbhmp205ycp5.work/token-J09znuacK%2FaG5G16xvY6y26KlMPQgn%2FjbXetw6MaEjPw5OWXHUJaCJQrrwtJXlIeR2PdxTJjmv50fpBLBQEU9c9gS0i3a/v3/get/s3/aHR0cHM6Ly9wbGF5LmdweWN2YWMuY29t/rrty/hd-zh-1-4343322.m3u8?txSecret=7f366221e2222f7a4a8db8659d2fa005&txTime=69233491';
   const video = document.querySelector('video');
 
   // For more options see: https://github.com/sampotts/plyr/#options
