@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-  const source = 'https://fhlsport301.tbhmp205ycp5.work/token-J09znuacK%2FaG5G16xvY6y26KlMPQgn%2FjbXetw6MaEjPw5OWXHUJaCJQrrwtJXlIeR2PdxTJjmv50fpBLBQEU9c9gS0i3a/v3/get/s3/aHR0cHM6Ly9wbGF5LmdweWN2YWMuY29t/rrty/hd-zh-1-4343322.m3u8?txSecret=7f366221e2222f7a4a8db8659d2fa005&txTime=69233491';
+  const source = 'https://live-en.aisports.cc/moviebox/device02/playlist.m3u8?wsSecret=9973cfa4c9347dff1b39746f91fc03af&wsABSTime=689ad86Z';
   const video = document.querySelector('video');
 
   // For more options see: https://github.com/sampotts/plyr/#options
