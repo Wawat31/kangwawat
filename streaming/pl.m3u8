@@ -84,19 +84,8 @@ https://hls.suanzsd6.com/hd-en-6MvXMfc5VhdYjLsGKH.m3u8?txSecret=65053335dc86cd74
 ======================
 
 #EXTINF:-1 tvg-id="Indosiar.my.id" tvg-name="Indosiar ᴴᴰ" tvg-logo="https://i.imgur.com/8lhoK7U_d.webp?maxwidth=760&fidelity=grand" group-title="Wawat Sports", VOLI TV
-#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.program_number=350997
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-http://103.179.182.117:6768/hls/2/2.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.my.id" tvg-name="Indosiar ᴴᴰ" tvg-logo="https://i.imgur.com/d0ZTNHx_d.webp?maxwidth=760&fidelity=grand" group-title="TIMNAS", INDOSIAR FEED
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-http://103.179.182.117:6768/hls/56/56.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/d0ZTNHx_d.webp?maxwidth=760&fidelity=grand" group-title="TIMNAS",LIVE 1
 https://hls.suanzsd6.com/hd-en-6MuQ8tW9rLswqSyfh9.m3u8?txSecret=9c4f1d6a88304ab30c80bff97aec861a&txTime=68EC1214
@@ -113,11 +102,8 @@ https://bf.jlbflive.cc/live/322571_hd01.m3u8?txSecret=31ddffd933b77f17772f11678b
 ======================
 ======= LIGA BRI ==========
 ======================
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/C2UKEha_d.webp?maxwidth=760&fidelity=grand" group-title="LIGA SUPER",LIVE 1
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
 http://103.179.182.117:6768/hls/56/56.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/C2UKEha_d.webp?maxwidth=760&fidelity=grand" group-title="LIGA SUPER",LIVE 2
