@@ -47,8 +47,9 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000143/1024.m3u8
 https://hls.suanzsd6.com/sd-6MuSsKaN2GxxqvemD1.m3u8?txSecret=df246223cbd7e5c888cac4e2df15b0b6&txTime=68B709E7
 
 ======================
-====== UCL 25 ===
+====== UCL 25 ========
 ======================
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/JFKXyh6_d.webp?maxwidth=760&fidelity=grand" group-title="UCL 25/26",LIVE 1
 https://a112.azplay21.me/hls/streama243664/index.m3u8?cst=013f6689f0e4540b13652179c86c88e9
 
@@ -130,14 +131,10 @@ https://bf.jlbflive.cc/live/5004470_hd01.m3u8?txSecret=39c3a9afbd75a19b056574697
 
 
 ======================
-======= FEED EVENT======
+======= FEED EVENT ===
 ======================
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="ACL TWO",LIVE ACL 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-
-
-
-======================
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="FEED SPORT",LIVE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -146,8 +143,6 @@ https://hls.bitiyu9.cc/hd-en-6MuT7Jy12ZYKm8Qy4j.m3u8?token=iktvCM8qNwIkIsDnscDxP
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="FEED SPORT",LIVE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://bf.jlbflive.cc/live/5004748_hd01.m3u8?txSecret=2b8071e5bb639620c3ed7273cec4a84c&txTime=692c74b4
-
-
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="FEED SPORT",LIVE 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -168,7 +163,6 @@ https://live-en.aisports.cc/moviebox/device02/playlist.m3u8?wsSecret=9973cfa4c93
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="FEED SPORT",LIVE 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-
 
 ======================
 ========= EVENT =======
@@ -314,7 +308,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd|user-ag
 ======================================
 ======================================
 
-======== SPORTSTART MNC>==============
+======== SPORTSTART MNC ==============
 ======================================
 ======================================
 
@@ -353,11 +347,8 @@ https://fta4-cdn-flr.visionplus.id/out/v1/9a06560796f441a3981cd5a27c7d917f/index
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
 
-
-
-
 =============================
-======== Religion ===========
+======= Religion ===========
 =============================
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
