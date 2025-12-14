@@ -43,7 +43,7 @@ https://liveplus.rctiplus.id/RTMP-IN-avc1_3500000=8-mp4a_128000=2.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000143/1024.m3u8
 #http://103.179.182.117:6768/hls/51/51.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="kangwawat.web.id",Visit US
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/UmWAxsS.png" group-title="kangwawat.web.id",Visit US
 https://hls.suanzsd6.com/sd-6MuSsKaN2GxxqvemD1.m3u8?txSecret=df246223cbd7e5c888cac4e2df15b0b6&txTime=68B709E7
 
 ======================
