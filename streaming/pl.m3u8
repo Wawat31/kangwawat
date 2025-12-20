@@ -139,7 +139,7 @@ https://hls.bitiyu9.cc/LM3qNwIkIsDnscDxPG0yrBUL2pKQ2JqK0RGRTZWa0Q3MlgxeUlobkVMWX
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/UmWAxsS.png" group-title="FEED SPORT",LIVE 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://live-en.aisports.cc/moviebox/device02/playlist.m3u8?wsSecret=9973cfa4c9347dff1b39746f91fc03af&wsABSTime=689ad86Z
+https://blcdn.megame.org/live/9c46862f35cb/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/UmWAxsS.png" group-title="FEED SPORT",LIVE 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
