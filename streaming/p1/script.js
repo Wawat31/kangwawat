@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-  const source = 'https://live.uuzb1.live/rrty/sd-1-4379238_gqzm.m3u8?txSecret=c5dd1d077fbb10e38588119d3c1406f5&txTime=69501F72';
+  const source = 'https://allcutv.rctiplus.id/mnctv2023-avc1_1800000=20-mp4a_128000=2.m3u8';
   const video = document.querySelector('video');
 
   // For more options see: https://github.com/sampotts/plyr/#options
