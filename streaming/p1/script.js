@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-  const source = 'https://allcutv.rctiplus.id/mnctv2023-avc1_1800000=20-mp4a_128000=2.m3u8';
+  const source = 'https://live-en.aisports.cc/moviebox/football001/playlist.m3u8?auth_key=C5B4D8FAECEB1FF3C6E4A0F9627A642F55524B7B34F67D21BB74A02A82D2EA78C24C08867AE18F3F8B15742AF7517FA800D239FE378C2919E28286089A75367072DFBFCDF0ABFE2467D280D3CE5428C745826119DD3FC91D021C08C23F9BA3A8%';
   const video = document.querySelector('video');
 
   // For more options see: https://github.com/sampotts/plyr/#options
