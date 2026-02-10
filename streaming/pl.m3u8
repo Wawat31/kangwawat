@@ -521,7 +521,14 @@ https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="17" tvg-logo="https://www.dens.tv/images/channel-logo/17.jpg" group-title="TV NASIONAL", TVRI
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&userid=lite&chname=TVRI
+
+# TVRI SPORTS
+#EXTINF:-1 tvg-id="17" tvg-logo="https://www.dens.tv/images/channel-logo/17.jpg" group-title="TV NASIONAL", TVRI SPORTS
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8?app_type=web&userid=lite&chname=TVRI_Sport
+
 
 # RODJA
 #EXTINF:-1 tvg-id="rodja.id" tvg-name="Rodja TV" tvg-logo="https://www.dens.tv/images/channel-logo/21.jpg" group-title="TV NASIONAL", RODJA TV
@@ -588,7 +595,7 @@ https://why.biz.id/Iptv/oxygen.php?id=oxygentv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg" group-title="TV NASIONAL",DENS PLAY
 https://op-group1-swiftservehd-1.dens.tv/h/h246/index.m3u8?app_type=web&userid=lite&chname=DensPlay
 
-
+# DENS FOOD
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg" group-title="TV NASIONAL",DENS FOOD
