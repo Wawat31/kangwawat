@@ -494,7 +494,10 @@ https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
 # CNN 
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://i.imgur.com/yheIqKd_d.webp?maxwidth=760&fidelity=grand" group-title="TV NASIONAL",CNN IDN
+#EXTINF:-1 tvg-name="CNN Indonesia" tvg-logo="https://i.imgur.com/yheIqKd_d.webp?maxwidth=760&fidelity=grand" group-title="TV NASIONAL",CNN IDN
+#EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
+#EXTVLCOPT:http-origin=https://www.cnnindonesia.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w80388450_b384000_sleng.m3u8
 
 # CNBC
