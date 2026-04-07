@@ -75,6 +75,8 @@ https://hls.suanzsd6.com/hd-en-6MvXMfc4A43xQK6V2F.m3u8?txSecret=344bbf070fe7d935
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/JFKXyh6_d.webp?maxwidth=760&fidelity=grand" group-title="UCL 25/26",LIVE 8
 https://hls.suanzsd6.com/sd-6MuSs3GeJWWuJ5ZE5d.m3u8?txSecret=6e286280a070393bea7e605ea9484a56&txTime=68F92DCB
 
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/JFKXyh6_d.webp?maxwidth=760&fidelity=grand" group-title="UCL 25/26",LIVE 9
+https://hls.suanzsd6.com/hd-en-6MvXMfc5VhdYjLsGKH.m3u8?txSecret=65053335dc86cd74132cf03ab3f47a2b&txTime=68F909F2
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/JFKXyh6_d.webp?maxwidth=760&fidelity=grand" group-title="UCL 25/26",LIVE 10
 https://hls.suanzsd6.com/hd-en-6MvXMfc5VhdYjLsGKH.m3u8?txSecret=65053335dc86cd74132cf03ab3f47a2b&txTime=68F909F2
@@ -99,47 +101,6 @@ https://github.com/Wawat31/kangwawat/blob/main/streaming/pl.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/d0ZTNHx_d.webp?maxwidth=760&fidelity=grand" group-title="TIMNAS",LIVE 4
 https://bf.jlbflive.cc/live/322571_hd01.m3u8?txSecret=31ddffd933b77f17772f11678b44f5ab&txTime=68b83bab
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/d0ZTNHx_d.webp?maxwidth=760&fidelity=grand" group-title="TIMNAS",LIVE 5
-https://bf.jlbflive.cc/live/322571_hd01.m3u8?txSecret=31ddffd933b77f17772f11678b44f5ab&txTime=68b83bab
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/d0ZTNHx_d.webp?maxwidth=760&fidelity=grand" group-title="TIMNAS",LIVE 6
-https://bf.jlbflive.cc/live/322571_hd01.m3u8?txSecret=31ddffd933b77f17772f11678b44f5ab&txTime=68b83bab
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/d0ZTNHx_d.webp?maxwidth=760&fidelity=grand" group-title="TIMNAS",LIVE 7
-https://bf.jlbflive.cc/live/322571_hd01.m3u8?txSecret=31ddffd933b77f17772f11678b44f5ab&txTime=68b83bab
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/d0ZTNHx_d.webp?maxwidth=760&fidelity=grand" group-title="TIMNAS",LIVE 8
-https://bf.jlbflive.cc/live/322571_hd01.m3u8?txSecret=31ddffd933b77f17772f11678b44f5ab&txTime=68b83bab
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/d0ZTNHx_d.webp?maxwidth=760&fidelity=grand" group-title="TIMNAS",LIVE 9
-https://bf.jlbflive.cc/live/322571_hd01.m3u8?txSecret=31ddffd933b77f17772f11678b44f5ab&txTime=68b83bab
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/d0ZTNHx_d.webp?maxwidth=760&fidelity=grand" group-title="TIMNAS",LIVE 10
-https://bf.jlbflive.cc/live/322571_hd01.m3u8?txSecret=31ddffd933b77f17772f11678b44f5ab&txTime=68b83bab
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/d0ZTNHx_d.webp?maxwidth=760&fidelity=grand" group-title="TIMNAS",LIVE 11
-https://bf.jlbflive.cc/live/322571_hd01.m3u8?txSecret=31ddffd933b77f17772f11678b44f5ab&txTime=68b83bab
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/d0ZTNHx_d.webp?maxwidth=760&fidelity=grand" group-title="TIMNAS",LIVE 12
-https://bf.jlbflive.cc/live/322571_hd01.m3u8?txSecret=31ddffd933b77f17772f11678b44f5ab&txTime=68b83bab
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/d0ZTNHx_d.webp?maxwidth=760&fidelity=grand" group-title="TIMNAS",LIVE 13
-https://bf.jlbflive.cc/live/322571_hd01.m3u8?txSecret=31ddffd933b77f17772f11678b44f5ab&txTime=68b83bab
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/d0ZTNHx_d.webp?maxwidth=760&fidelity=grand" group-title="TIMNAS",LIVE 14
-https://bf.jlbflive.cc/live/322571_hd01.m3u8?txSecret=31ddffd933b77f17772f11678b44f5ab&txTime=68b83bab
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/d0ZTNHx_d.webp?maxwidth=760&fidelity=grand" group-title="TIMNAS",LIVE 15
-https://bf.jlbflive.cc/live/322571_hd01.m3u8?txSecret=31ddffd933b77f17772f11678b44f5ab&txTime=68b83bab
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/d0ZTNHx_d.webp?maxwidth=760&fidelity=grand" group-title="TIMNAS",LIVE 16
-https://bf.jlbflive.cc/live/322571_hd01.m3u8?txSecret=31ddffd933b77f17772f11678b44f5ab&txTime=68b83bab
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/d0ZTNHx_d.webp?maxwidth=760&fidelity=grand" group-title="TIMNAS",LIVE 17
-https://bf.jlbflive.cc/live/322571_hd01.m3u8?txSecret=31ddffd933b77f17772f11678b44f5ab&txTime=68b83bab
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/d0ZTNHx_d.webp?maxwidth=760&fidelity=grand" group-title="TIMNAS",LIVE 18
-https://bf.jlbflive.cc/live/322571_hd01.m3u8?txSecret=31ddffd933b77f17772f11678b44f5ab&txTime=68b83bab
 
 ======================
 ======= LIGA INGGRIS ==========
