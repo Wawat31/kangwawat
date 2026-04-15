@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  background: #111;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: sans-serif;
+}
+
+#player {
+  width: 900px;
+  height: 500px;
+}
