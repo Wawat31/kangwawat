@@ -167,9 +167,25 @@ https://xzbonlinepull.52kq.top/live/hd-en-1-4343121.m3u8?txSecret=1e4a183164e8d8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/UmWAxsS.png" group-title="FEED SPORT",LIVE 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 
+
+===========================°
+===========================
+======= FIFA ++ ===========
+============================
+EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-id="Матч! Футбол 1.ru" tvg-logo="https://i.ibb.co.com/TLDsrbz/matchf1.png", MATCH! FOOTBALL 1 🇷🇺
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114
+https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd
+
+
+
+
 ===========================
 ======= WAWAT SPORTS ======
 ===========================
+
+
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
