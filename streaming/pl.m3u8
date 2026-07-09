@@ -543,7 +543,7 @@ https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8
 #EXTINF:-1 group-title="TV NASIONAL" tvg-id="RajawaliTV.id" tvg-logo="https://i.imgur.com/Ur4zJrC_d.webp?maxwidth=760&fidelity=grand",RTV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=RTV
 
 # TRANS 7
 #EXTINF:-1 group-title="TV NASIONAL" tvg-id="Trans7.id" tvg-logo="https://i.imgur.com/Ha9IPdE_d.webp?maxwidth=760&fidelity=grand",TRANS 7
