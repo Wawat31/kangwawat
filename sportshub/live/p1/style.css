@@ -6,17 +6,17 @@ body{
 margin:0;
 background:#061624;
 color:white;
-font-family:Arial, sans-serif;
+font-family:Arial,sans-serif;
 }
 
 
 .container{
 
 width:100%;
-max-width:600px;
+max-width:700px;
 min-height:100vh;
 margin:auto;
-padding:35px 25px;
+padding:45px 30px;
 text-align:center;
 
 }
@@ -26,47 +26,46 @@ text-align:center;
 
 .logo{
 
-font-size:42px;
+font-size:55px;
 font-weight:900;
-margin-top:10px;
+margin-bottom:20px;
 
 }
 
 
 .subtitle{
 
-font-size:22px;
+font-size:26px;
 color:#ccc;
-margin-top:15px;
 
 }
 
 
 
-/* CARD JADWAL */
+/* MATCH */
 
 .match-card{
 
 background:#102d42;
-padding:35px 25px;
-border-radius:25px;
-margin-top:40px;
+padding:45px 30px;
+border-radius:30px;
+margin-top:45px;
 
 }
 
 
 .match-card h2{
 
-font-size:32px;
-line-height:1.3;
+font-size:40px;
+margin:10px 0;
 
 }
 
 
 .time{
 
-font-size:24px;
-margin:25px 0;
+font-size:30px;
+margin:30px 0;
 
 }
 
@@ -77,10 +76,10 @@ margin:25px 0;
 button{
 
 width:100%;
-height:65px;
-border:none;
-border-radius:18px;
-font-size:22px;
+height:80px;
+border-radius:22px;
+border:0;
+font-size:26px;
 font-weight:bold;
 background:#00c853;
 color:white;
@@ -95,10 +94,10 @@ color:white;
 
 display:block;
 text-align:left;
-font-size:22px;
+font-size:28px;
 color:white;
 text-decoration:none;
-margin-bottom:30px;
+margin-bottom:35px;
 
 }
 
@@ -108,13 +107,12 @@ margin-bottom:30px;
 
 .live{
 
-display:inline-block;
 background:#e00000;
-font-size:22px;
+display:inline-block;
+padding:18px 45px;
+border-radius:50px;
+font-size:28px;
 font-weight:bold;
-padding:15px 35px;
-border-radius:40px;
-margin:15px 0;
 
 }
 
@@ -124,8 +122,7 @@ margin:15px 0;
 
 .video-box{
 
-width:100%;
-margin-top:30px;
+margin-top:35px;
 
 }
 
@@ -133,8 +130,8 @@ margin-top:30px;
 video{
 
 width:100%;
-height:340px;
-border-radius:22px;
+height:430px;
+border-radius:28px;
 background:black;
 
 }
@@ -146,35 +143,33 @@ background:black;
 .donate-box{
 
 background:#102d42;
-padding:30px 25px;
-border-radius:25px;
-margin-top:30px;
-text-align:center;
+padding:40px 30px;
+border-radius:30px;
+margin-top:35px;
 
 }
 
 
 .donate-box h2{
 
-font-size:30px;
+font-size:38px;
 
 }
 
 
 .donate-box p{
 
-font-size:19px;
-line-height:1.7;
+font-size:24px;
+line-height:1.8;
 
 }
 
 
-
 .donate{
 
+height:85px;
+font-size:28px;
 background:#ff4081;
-height:70px;
-font-size:22px;
 
 }
 
@@ -185,9 +180,9 @@ font-size:22px;
 .info{
 
 background:#102d42;
-padding:30px 25px;
-border-radius:25px;
-margin-top:30px;
+padding:40px 30px;
+border-radius:30px;
+margin-top:35px;
 text-align:left;
 
 }
@@ -195,7 +190,7 @@ text-align:left;
 
 .info h3{
 
-font-size:26px;
+font-size:32px;
 text-align:center;
 
 }
@@ -203,7 +198,7 @@ text-align:center;
 
 .info p{
 
-font-size:18px;
-line-height:1.7;
+font-size:22px;
+line-height:1.8;
 
 }
