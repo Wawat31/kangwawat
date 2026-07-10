@@ -1,152 +1,279 @@
+/* ===========================
+   SportsHub Final Style
+=========================== */
+
 *{
+    margin:0;
+    padding:0;
     box-sizing:border-box;
 }
 
-body{
-    margin:0;
-    background:#061624;
-    color:#fff;
-    font-family:Arial,sans-serif;
+html{
+    scroll-behavior:smooth;
 }
+
+body{
+    background:#061624;
+    color:#ffffff;
+    font-family:Arial,Helvetica,sans-serif;
+}
+
+/* ===========================
+   Container
+=========================== */
 
 .container{
     width:100%;
-    max-width:420px;
-    min-height:100vh;
+    max-width:430px;
     margin:auto;
-    padding:24px 18px;
-    text-align:center;
+    min-height:100vh;
+    padding:20px 16px 35px;
 }
 
-/* LOGO */
-
-.logo{
-    font-size:38px;
-    font-weight:900;
-    margin-bottom:12px;
-}
-
-.subtitle{
-    font-size:18px;
-    color:#bfc7cf;
-    margin-top:6px;
-}
-
-/* MATCH */
-
-.match-card{
-    background:#102d42;
-    padding:24px 20px;
-    border-radius:20px;
-    margin-top:28px;
-}
-
-.match-card h2{
-    font-size:28px;
-    margin:0 0 18px;
-    line-height:1.4;
-}
-
-.time{
-    font-size:20px;
-    margin:18px 0 24px;
-}
-
-/* BUTTON */
-
-button{
-    width:100%;
-    height:58px;
-    border:none;
-    border-radius:15px;
-    font-size:20px;
-    font-weight:bold;
-    background:#00c853;
-    color:#fff;
-    cursor:pointer;
-}
-
-/* BACK */
+/* ===========================
+   Back Button
+=========================== */
 
 .back{
-    display:block;
-    text-align:left;
-    font-size:20px;
     color:#fff;
     text-decoration:none;
+    font-size:17px;
+    display:inline-block;
     margin-bottom:20px;
 }
 
-/* LIVE */
+.back:hover{
+    opacity:.8;
+}
+
+/* ===========================
+   Logo
+=========================== */
+
+.logo{
+    text-align:center;
+    font-size:34px;
+    font-weight:800;
+    margin-bottom:8px;
+}
+
+.subtitle{
+    text-align:center;
+    color:#b7c2cc;
+    font-size:15px;
+    margin-bottom:20px;
+}
+
+/* ===========================
+   Match Title
+=========================== */
+
+h2{
+    text-align:center;
+    font-size:26px;
+    margin:15px 0;
+    line-height:1.4;
+}
+
+/* ===========================
+   LIVE Badge
+=========================== */
 
 .live{
     display:inline-block;
-    background:#e00000;
+    background:#ff2d2d;
+    color:#fff;
     padding:8px 18px;
-    border-radius:50px;
-    font-size:16px;
+    border-radius:30px;
+    font-size:14px;
     font-weight:bold;
+    margin:0 auto 20px;
 }
 
-/* VIDEO */
+.container .live{
+    display:table;
+}
+
+/* ===========================
+   Player
+=========================== */
 
 .video-box{
-    margin-top:24px;
+    margin-top:20px;
+    border-radius:18px;
+    overflow:hidden;
+    background:#000;
+    box-shadow:0 10px 25px rgba(0,0,0,.35);
 }
 
 video{
     width:100%;
+    display:block;
     aspect-ratio:16/9;
-    height:auto;
-    border-radius:16px;
     background:#000;
 }
 
-/* DONATE */
+/* Plyr */
+
+.plyr{
+    border-radius:18px;
+}
+
+.plyr--video{
+    background:#000;
+}
+
+.plyr__control--overlaid{
+    background:#00c853 !important;
+}
+
+.plyr--full-ui input[type=range]{
+    color:#00c853;
+}
+
+.plyr__menu__container{
+    border-radius:12px;
+}
+
+/* ===========================
+   Donate
+=========================== */
 
 .donate-box{
     background:#102d42;
-    padding:22px 18px;
-    border-radius:20px;
-    margin-top:24px;
+    margin-top:25px;
+    border-radius:18px;
+    padding:20px;
+    text-align:center;
 }
 
 .donate-box h2{
-    font-size:24px;
-    margin-bottom:10px;
+    font-size:22px;
+    margin-bottom:12px;
 }
 
 .donate-box p{
+    color:#d6d6d6;
     font-size:15px;
     line-height:1.7;
-    color:#d5d5d5;
-}
-
-.donate{
-    height:56px;
-    font-size:18px;
-    background:#ff4081;
-    margin-top:15px;
-}
-
-/* INFO */
-
-.info{
-    background:#102d42;
-    padding:22px 18px;
-    border-radius:20px;
-    margin-top:24px;
-    text-align:left;
-}
-
-.info h3{
-    font-size:22px;
-    text-align:center;
     margin-bottom:10px;
 }
 
+.donate{
+    width:100%;
+    height:55px;
+    border:none;
+    border-radius:14px;
+    background:#ff4081;
+    color:#fff;
+    font-size:18px;
+    font-weight:bold;
+    cursor:pointer;
+    transition:.25s;
+}
+
+.donate:hover{
+    transform:scale(1.02);
+}
+
+/* ===========================
+   Info
+=========================== */
+
+.info{
+    background:#102d42;
+    margin-top:22px;
+    padding:20px;
+    border-radius:18px;
+}
+
+.info h3{
+    text-align:center;
+    font-size:20px;
+    margin-bottom:15px;
+}
+
 .info p{
+    color:#d6d6d6;
     font-size:15px;
     line-height:1.7;
-    color:#d5d5d5;
+    margin:8px 0;
+}
+
+/* ===========================
+   Button
+=========================== */
+
+button{
+    width:100%;
+    height:55px;
+    border:none;
+    border-radius:14px;
+    background:#00c853;
+    color:#fff;
+    font-size:18px;
+    font-weight:bold;
+    cursor:pointer;
+    transition:.25s;
+}
+
+button:hover{
+    background:#00b44a;
+}
+
+/* ===========================
+   Card (Index)
+=========================== */
+
+.match-card{
+    background:#102d42;
+    border-radius:18px;
+    padding:20px;
+    margin-top:25px;
+    text-align:center;
+    box-shadow:0 10px 25px rgba(0,0,0,.25);
+}
+
+.match-card h2{
+    font-size:24px;
+}
+
+.time{
+    font-size:18px;
+    color:#d6d6d6;
+    margin:15px 0;
+}
+
+/* ===========================
+   Responsive
+=========================== */
+
+@media(max-width:380px){
+
+.logo{
+    font-size:28px;
+}
+
+h2{
+    font-size:22px;
+}
+
+.match-card h2{
+    font-size:20px;
+}
+
+button,
+.donate{
+    font-size:16px;
+    height:50px;
+}
+
+.donate-box h2{
+    font-size:20px;
+}
+
+.info h3{
+    font-size:18px;
+}
+
 }
