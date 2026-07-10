@@ -42,6 +42,31 @@ Barcelona vs Real Madrid
 <div class="video-box">
 
 <video id="video" controls autoplay></video>
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+
+<script>
+
+const video = document.getElementById("video");
+
+const stream = "MASUKKAN_LINK_M3U8_DISINI";
+
+
+if (Hls.isSupported()) {
+
+    const hls = new Hls();
+
+    hls.loadSource(stream);
+
+    hls.attachMedia(video);
+
+} else {
+
+    video.src = stream;
+
+}
+
+</script>
+
 
 </div>
 
