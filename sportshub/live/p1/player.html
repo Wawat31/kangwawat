@@ -1,77 +1,57 @@
 <!DOCTYPE html>
-<html>
+<html lang="id">
 
 <head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <title>SportsHub Live</title>
 
 <link rel="stylesheet" href="style.css">
 
+<link rel="stylesheet"
+href="https://cdn.plyr.io/3.7.8/plyr.css"/>
+
 <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+<script src="https://cdn.plyr.io/3.7.8/plyr.polyfilled.js"></script>
 
 </head>
 
-
 <body>
 
-
 <div class="container">
-
 
 <a href="index.html" class="back">
 ← Kembali
 </a>
 
-
 <div class="logo">
 ⚽ SportsHub
 </div>
 
+<p class="subtitle">
+Live Streaming Gratis
+</p>
 
 <h2>
 Barcelona vs Real Madrid
 </h2>
 
-
 <div class="live">
 🔴 LIVE SEKARANG
 </div>
 
-
-
 <div class="video-box">
 
-<video id="video" controls autoplay></video>
-<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-
-<script>
-
-const video = document.getElementById("video");
-
-const stream = "https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/CnQ0EvPt/live.isml/.m3u8";
-
-
-if (Hls.isSupported()) {
-
-    const hls = new Hls();
-
-    hls.loadSource(stream);
-
-    hls.attachMedia(video);
-
-} else {
-
-    video.src = stream;
-
-}
-
-</script>
-
+<video
+id="player"
+playsinline
+controls
+autoplay>
+</video>
 
 </div>
-
-
-
 
 <div class="donate-box">
 
@@ -79,109 +59,134 @@ if (Hls.isSupported()) {
 ❤️ Dukung SportsHub
 </h2>
 
-
 <p>
 Terima kasih telah menggunakan SportsHub.
 </p>
 
-
 <p>
-Agar website tetap online, server tetap aktif,
-dan kualitas layanan terus ditingkatkan,
-Anda dapat memberikan dukungan melalui donasi.
+Website ini membutuhkan biaya server agar tetap online.
+Jika ingin mendukung pengembangan SportsHub,
+silakan berdonasi melalui tombol di bawah.
 </p>
 
-
-<p>
-Setiap dukungan sangat berarti dan membantu
-pengembangan SportsHub.
-</p>
-
-
-
-<a href="LINK_DONATE_KAMU">
+<a href="LINK_DONATE_KAMU" target="_blank">
 
 <button class="donate">
+
 💝 Donate Sekarang
+
 </button>
 
 </a>
 
-
 </div>
 
-
-
-
-
 <div class="info">
-
 
 <h3>
 📢 Informasi
 </h3>
 
-
 <p>
 • Gunakan koneksi internet yang stabil.
 </p>
 
-
 <p>
-• Jika video buffering, silakan refresh halaman.
+• Jika streaming buffering, silakan refresh halaman.
 </p>
 
-
 <p>
-• Apabila server penuh, coba kembali beberapa menit kemudian.
+• Jika server penuh, silakan coba beberapa menit lagi.
 </p>
 
-
 <p>
-Terima kasih telah menonton melalui SportsHub.
-Selamat menikmati pertandingan!
+• Gunakan mode Fullscreen agar pengalaman menonton lebih nyaman.
 </p>
 
+<p>
+Terima kasih telah menggunakan SportsHub.
+Selamat menikmati pertandingan.
+</p>
 
 </div>
 
-
-
 </div>
-
-
-
 
 <script>
 
+const video = document.getElementById("player");
 
-let video = document.getElementById("video");
-
-
-let stream = "LINK_M3U8_DISINI";
-
-
+const stream = "https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/CnQ0EvPt/live.isml/.m3u8";
 
 if(Hls.isSupported()){
 
-let hls = new Hls();
+const hls = new Hls({
+
+enableWorker:true,
+
+lowLatencyMode:true,
+
+backBufferLength:90
+
+});
 
 hls.loadSource(stream);
 
 hls.attachMedia(video);
 
-}
+hls.on(Hls.Events.MANIFEST_PARSED,function(){
 
-else{
+new Plyr(video,{
+
+controls:[
+
+'play-large',
+
+'play',
+
+'progress',
+
+'current-time',
+
+'duration',
+
+'mute',
+
+'volume',
+
+'settings',
+
+'pip',
+
+'airplay',
+
+'fullscreen'
+
+],
+
+settings:[
+
+'speed'
+
+]
+
+});
+
+});
+
+}else if(video.canPlayType("application/vnd.apple.mpegurl")){
 
 video.src = stream;
 
+new Plyr(video);
+
+}else{
+
+alert("Browser tidak mendukung HLS.");
+
 }
 
-
-
 </script>
-
 
 </body>
 
