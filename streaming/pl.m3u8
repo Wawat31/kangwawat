@@ -546,9 +546,11 @@ https://cdnbal1.indihometv.com/atm/DASH/KOMPAS_TV/KOMPAS_TV-avc1_2500000=7-32777
 https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=RTV
 
 # TRANS 7
-#EXTINF:-1 group-title="TV NASIONAL" tvg-id="Trans7.id" tvg-logo="https://i.imgur.com/Ha9IPdE_d.webp?maxwidth=760&fidelity=grand",TRANS 7
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://i.imgur.com/Ha9IPdE_d.webp?maxwidth=760&fidelity=grand" group-title="TV NASIONAL",TRANS 7
+http://iptv.kilas7.com:80/live/kaukia/asdfrewq/4.m3u8
+
+
 
 # TRANSTV
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
