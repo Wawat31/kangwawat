@@ -1,4 +1,4 @@
-const stream1 = "https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play.cbalive.weibisai.com/live/4266837211348061_AiHD.m3u8?txSecret=7151e6578658d1e135c7e220a4efc78f&txTime=6A5AA5E0";
+const stream1 = "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8";
 const stream2 = "LINK_M3U8_2";
 const stream3 = "LINK_M3U8_3";
 
