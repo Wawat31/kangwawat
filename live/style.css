@@ -172,3 +172,13 @@ font-weight:bold;
     transform:scale(1.1);
     background:#1EBE5D;
 }
+
+.footer{
+    text-align:center;
+    padding:20px 10px;
+    color:#888;
+    font-size:14px;
+    background:#000;
+    border-top:1px solid #222;
+    margin-top:20px;
+}
