@@ -182,3 +182,34 @@ font-weight:bold;
     border-top:1px solid #222;
     margin-top:20px;
 }
+
+.donation-popup{
+    position:fixed;
+    left:20px;
+    bottom:20px;
+    background:#1b1b1b;
+    color:#fff;
+    border-left:4px solid #25D366;
+    border-radius:10px;
+    padding:12px;
+    display:flex;
+    align-items:center;
+    gap:10px;
+    width:280px;
+    box-shadow:0 5px 15px rgba(0,0,0,.4);
+    transform:translateX(-350px);
+    transition:.5s;
+    z-index:9999;
+}
+
+.donation-popup.show{
+    transform:translateX(0);
+}
+
+.popup-icon{
+    font-size:28px;
+}
+
+.popup-text strong{
+    color:#25D366;
+}
