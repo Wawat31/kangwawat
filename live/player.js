@@ -1,5 +1,5 @@
 const stream1 = "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8";
-const stream2 = "LINK_M3U8_2";
+const stream2 = "https://rodjatv.com/rodjatv/live.m3u8";
 const stream3 = "LINK_M3U8_3";
 
 const art = new Artplayer({
