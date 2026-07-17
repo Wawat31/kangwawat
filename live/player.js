@@ -1,4 +1,4 @@
-const stream1 = "LINK_M3U8_1";
+const stream1 = "https://bf.shandongjncz.com/live/sd-2-3924125_hd01.m3u8?txSecret=21a38c1b22ea042b067f11def27e8e8b&txTime=6a59d076";
 const stream2 = "LINK_M3U8_2";
 const stream3 = "LINK_M3U8_3";
 
