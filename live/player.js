@@ -1,4 +1,4 @@
-const stream1 = "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8";
+const stream1 = "https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/tMiWEsHp/live.isml/.m3u8";
 const stream2 = "https://rodjatv.com/rodjatv/live.m3u8";
 const stream3 = "LINK_M3U8_3";
 
