@@ -1,5 +1,5 @@
 const stream1 = "https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/tMiWEsHp/live.isml/.m3u8";
-const stream2 = "https://rodjatv.com/rodjatv/live.m3u8";
+const stream2 = "https://live.666666.zip/live/4523585.m3u8";
 const stream3 = "LINK_M3U8_3";
 
 const art = new Artplayer({
