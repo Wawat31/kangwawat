@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SportsHub Live</title>
+
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="https://unpkg.com/artplayer/dist/artplayer.css">
+
+</head>
+<body>
+
+<header>
+    <h1>⚽ SportsHub Live</h1>
+</header>
+
+<div class="menu">
+    <button class="active" onclick="changeStream(stream1,this)">Court 1</button>
+    <button onclick="changeStream(stream2,this)">Court 2</button>
+    <button onclick="changeStream(stream3,this)">Court 3</button>
+</div>
+
+<div id="player"></div>
+
+<div class="donate">
+    <button>❤️ DONATE</button>
+</div>
+
+<div class="chat">
+    <iframe src="https://tlk.io/sportshub"></iframe>
+</div>
+
+<div class="live">🔴 LIVE</div>
+
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+<script src="https://unpkg.com/artplayer/dist/artplayer.js"></script>
+<script src="player.js"></script>
+
+</body>
+</html>
