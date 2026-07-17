@@ -31,3 +31,34 @@ function changeStream(url, button) {
     button.classList.add("active");
     art.switchUrl(url);
 }
+
+const donors = [
+    {name:"Andi", amount:"Rp10.000"},
+    {name:"Rizky", amount:"Rp20.000"},
+    {name:"Budi", amount:"Rp5.000"},
+    {name:"Wawat", amount:"Rp50.000"},
+    {name:"Asep", amount:"Rp15.000"},
+    {name:"Doni", amount:"Rp25.000"},
+    {name:"Fajar", amount:"Rp100.000"}
+];
+
+const popup = document.getElementById("donation-popup");
+const donorName = document.getElementById("donor-name");
+const donorMessage = document.getElementById("donor-message");
+
+function showDonation(){
+
+    const random = donors[Math.floor(Math.random()*donors.length)];
+
+    donorName.textContent = random.name;
+    donorMessage.textContent = "baru saja berdonasi " + random.amount;
+
+    popup.classList.add("show");
+
+    setTimeout(()=>{
+        popup.classList.remove("show");
+    },4000);
+
+}
+
+setInterval(showDonation,12000);
