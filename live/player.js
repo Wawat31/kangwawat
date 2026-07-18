@@ -1,6 +1,6 @@
 const stream1 = "https://pul-tenm.gkykp.com/live/hd-en-1-4459814.m3u8?txSecret=c1ac103923b054b94718ef974b5bd16c&txTime=6A5CFCF1";
 const stream2 = "https://pul-tenm.gkykp.com/live/hd-en-1-4459814.m3u8?txSecret=c27a8bf610eb884d552f66b23f3058c4&txTime=6A5D3B48";
-const stream3 = "https://live.666666.zip/live/4488074.m3u8";
+const stream3 = "https://cfd5.dcfcfd.cfd/doopentea_m1/monomax1_480p/chunks.m3u8?nimblesessionid=40144809&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDI2IDk6MzQ6NTggUE0maGFzaF92YWx1ZT1pY05lZE4xQUx0eVdDMkhXKzdWbXl3PT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MCZpZD0xNzg0NDEwNDk4NDQ1";
 
 const art = new Artplayer({
     container: "#player",
