@@ -1,4 +1,4 @@
-const stream1 = "https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/tMiWEsHp/live.isml/.m3u8";
+const stream1 = "https://live.kinxie.com/live/71943770_7d79c45badd293030f8ef83e91fa3d69_1080p.m3u8?auth_key=1784401340-0-0-e74d018ae7807eb9d5b6c802950747a5";
 const stream2 = "https://live.666666.zip/live/4523585.m3u8";
 const stream3 = "LINK_M3U8_3";
 
