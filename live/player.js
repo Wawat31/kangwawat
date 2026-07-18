@@ -1,5 +1,5 @@
 const stream1 = "https://pul-tenm.gkykp.com/live/hd-en-1-4459814.m3u8?txSecret=c1ac103923b054b94718ef974b5bd16c&txTime=6A5CFCF1";
-const stream2 = "https://hls.live123.fans/live/4467504.m3u8";
+const stream2 = "https://pul-tenm.gkykp.com/live/hd-en-1-4459814.m3u8?txSecret=c27a8bf610eb884d552f66b23f3058c4&txTime=6A5D3B48";
 const stream3 = "https://live.666666.zip/live/4488074.m3u8";
 
 const art = new Artplayer({
