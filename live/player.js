@@ -1,5 +1,5 @@
 const stream1 = "https://yallavoide.yalla-shoot-zhubo.com/sport/202_5216383_2.m3u8?auth_key=1784573657-0-0-d283da8b897b517f91940d91d54596b6";
-const stream2 = "https://pul-tenm.gkykp.com/live/hd-en-1-4459814.m3u8?txSecret=c27a8bf610eb884d552f66b23f3058c4&txTime=6A5D3B48";
+const stream2 = "https://parsahant.s3.us-east-1.amazonaws.com/main.m3u8";
 const stream3 = "https://yallavoide.yalla-shoot-zhubo.com/sport/202_5216383_2.m3u8?auth_key=1784573657-0-0-d283da8b897b517f91940d91d54596b6";
 
 const art = new Artplayer({
