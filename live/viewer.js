@@ -1,11 +1,11 @@
 import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js";
 import {
-    getDatabase,
-    ref,
-    push,
-    onValue,
-    onDisconnect,
-    remove
+  getDatabase,
+  ref,
+  push,
+  set,
+  onValue,
+  onDisconnect
 } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-database.js";
 
 const firebaseConfig = {
@@ -24,21 +24,26 @@ const db = getDatabase(app);
 
 const viewersRef = ref(db, "viewers");
 
-// Tambah viewer baru
+// Tambahkan viewer baru
 const myViewer = push(viewersRef);
 
-myViewer.set({
-    joined: Date.now()
+set(myViewer, {
+  joined: Date.now()
 });
 
-// Hapus otomatis saat keluar
+// Hapus otomatis saat browser ditutup
 onDisconnect(myViewer).remove();
 
-// Update jumlah viewer realtime
+// Hitung jumlah viewer realtime
 onValue(viewersRef, (snapshot) => {
-    const total = snapshot.exists()
-        ? Object.keys(snapshot.val()).length
-        : 0;
+  let total = 0;
 
-    document.getElementById("viewerCount").textContent = total;
+  if (snapshot.exists()) {
+    total = snapshot.size || Object.keys(snapshot.val()).length;
+  }
+
+  const counter = document.getElementById("viewerCount");
+  if (counter) {
+    counter.textContent = total;
+  }
 });
