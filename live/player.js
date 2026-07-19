@@ -1,6 +1,6 @@
 const stream1 = "https://yallavoide.yalla-shoot-zhubo.com/sport/202_5216383_2.m3u8?auth_key=1784573657-0-0-d283da8b897b517f91940d91d54596b6";
 const stream2 = "https://parsahant.s3.us-east-1.amazonaws.com/main.m3u8";
-const stream3 = "https://yallavoide.yalla-shoot-zhubo.com/sport/202_5216383_2.m3u8?auth_key=1784573657-0-0-d283da8b897b517f91940d91d54596b6";
+const stream3 = "https://a93.azplay46.me/hls/streama261628/index.m3u8?cst=fca37f020f0bb336b697d33d5b23506f";
 
 const art = new Artplayer({
     container: "#player",
