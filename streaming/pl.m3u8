@@ -123,7 +123,8 @@ http://23.237.104.106:8080/DAZN_6/index.m3u8
 ======================
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/JFKXyh6_d.webp?maxwidth=760&fidelity=grand" group-title="UCL 25/26",LIVE 1
-https://a112.azplay21.me/hls/streama243664/index.m3u8?cst=013f6689f0e4540b13652179c86c88e9
+https://live2.livefeedtextbox.com/live/channel7.m3u8
+
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/JFKXyh6_d.webp?maxwidth=760&fidelity=grand" group-title="UCL 25/26",LIVE 2
 https://xzbonlinepull.bszb.me/live/hd-en-1-4415325.m3u8?txSecret=d63316906c3805a95bc6435a8a352e23&txTime=69386ec4
