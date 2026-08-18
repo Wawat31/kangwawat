@@ -48,7 +48,7 @@ PIALA DUNIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
+https://live2.livefeedtextbox.com/live/channel7.m3u8
 
 #EXTINF:-1 tvg-name="CIGNAL TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="PIALA DUNIA",CIGNAL TV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -158,11 +158,13 @@ https://hls.suanzsd6.com/hd-en-6MvXMfc5VhdYjLsGKH.m3u8?txSecret=65053335dc86cd74
 ======================
 
 #EXTINF:-1 tvg-id="Indosiar.my.id" tvg-name="Indosiar ᴴᴰ" tvg-logo="https://i.imgur.com/8lhoK7U_d.webp?maxwidth=760&fidelity=grand" group-title="Wawat Sports", VOLI TV
+https://live2.livefeedtextbox.com/live/channel7.m3u8
+
 
 #EXTINF:-1 tvg-id="Indosiar.my.id" tvg-name="Indosiar ᴴᴰ" tvg-logo="https://i.imgur.com/d0ZTNHx_d.webp?maxwidth=760&fidelity=grand" group-title="TIMNAS", INDOSIAR FEED
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/d0ZTNHx_d.webp?maxwidth=760&fidelity=grand" group-title="TIMNAS",LIVE 1
-https://pop14-ec2-ateme.tv360.vn/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxMjA5MzI0Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy8zNzkvSExTX0NsZWFuX01ITF8ycy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjllMTUxZTRhNWI3MWMxOWEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE3Mi4yNC4xNzMuMTk2Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiIxMzciLCJzb3VyY2VzIjpbNDk1XX0=.MGHen23bLsRAjlGqlu-IVOv8coxFVjPsHL0sjJ8AanWbIcavnPc1KPrdiD5UluVIXY4m7frwSzxGFLcoTRMeZA==/live/eds/379/HLS_Clean_MHL_2s/379-avc1_1000000=10000-mp4a_206000_eng=20000.m3u8
+https://live2.livefeedtextbox.com/live/channel7.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/d0ZTNHx_d.webp?maxwidth=760&fidelity=grand" group-title="TIMNAS",LIVE 2
 https://hls.suanzsd6.com/hd-en-6MuQ8tW9rGUz6VKqPM.m3u8?txSecret=8fb432d88bff019e13abbe86063e1081&txTime=68E7ED87
