@@ -131,7 +131,8 @@ https://live2.deliverfluxlive.com/livecdn/channel-7.m3u8?auth_key=30000017870562
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/JFKXyh6_d.webp?maxwidth=760&fidelity=grand" group-title="UCL 25/26",LIVE 3
-https://hls.suanzsd6.com/hd-en-6MvXMfcop3R7DZ1GhM.m3u8?txSecret=619e44f8dd42ccaf79e4e0ad65fb27e3&txTime=68F92A12
+https://live2.livefeedtextbox.com/live/channel7.m3u8
+
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/JFKXyh6_d.webp?maxwidth=760&fidelity=grand" group-title="UCL 25/26",LIVE 4
 https://hls.suanzsd6.com/hd-en-6MvXMfcppKr9oRckcF.m3u8?txSecret=621d194d8bb59f98ca3271f55a379c09&txTime=68F929D6
