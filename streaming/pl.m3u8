@@ -483,7 +483,16 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RpukoYQ.png" group-title="TV NASIONAL",RCTI
+##https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
+EXTINF:-1 group-title="TV NASIONAL" tvg-name="" tvg-logo="https://i.imgur.com/RpukoYQ.png",RCTI
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
+
+
 
 # GTV
 #EXTVLCOPT:http-user-agent=android-R+
