@@ -547,17 +547,17 @@ https://cdnbal1.indihometv.com/atm/DASH/KOMPAS_TV/KOMPAS_TV-avc1_2500000=7-32777
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=RTV
 
-# TRANS 7
+# TTRANSTV
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://i.imgur.com/Ha9IPdE_d.webp?maxwidth=760&fidelity=grand" group-title="TV NASIONAL",TRANS 7
-http://iptv.kilas7.com:80/live/kaukia/asdfrewq/4.m3u8
-
+#https://transdetik.stbbh43.workers.dev/trans7.m3u8
+https://green-night-d2b4.iontv.workers.dev/trans7.m3u8
 
 
 # TRANSTV
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://i.imgur.com/LChYCLc_d.webp?maxwidth=760&fidelity=grand" group-title="TV NASIONAL",TRANS TV
-http://iptv.kilas7.com:80/live/kaukia/asdfrewq/3.m3u8
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://i.imgur.com/LChYCLc_d.webp?maxwidth=760&fidelity=grand" group-title="INDONESIA TV",TRANS TV (DTK)
+#https://transdetik.stbbh43.workers.dev/transtv.m3u8
+https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
 
 
 # CNN 
