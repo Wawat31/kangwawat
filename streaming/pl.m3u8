@@ -510,7 +510,7 @@ http://tvratu.my.id/nissa/index.mpd?id=782&type=dash
 # SCTV
 EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://i.imgur.com/M02wLeQ_d.webp?maxwidth=760&fidelity=grand" group-title="TV NASIOMAL",SCTV
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://i.imgur.com/M02wLeQ_d.webp?maxwidth=760&fidelity=grand" group-title="TV NASIONAL",SCTV
 https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv
 
 
