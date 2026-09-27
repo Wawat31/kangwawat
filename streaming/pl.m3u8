@@ -555,7 +555,7 @@ https://green-night-d2b4.iontv.workers.dev/trans7.m3u8
 
 
 # TRANSTV
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://i.imgur.com/LChYCLc_d.webp?maxwidth=760&fidelity=grand" group-title="INDONESIA TV",TRANS TV (DTK)
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://i.imgur.com/LChYCLc_d.webp?maxwidth=760&fidelity=grand" group-title="TV NASIONAL",TRANS TV
 #https://transdetik.stbbh43.workers.dev/transtv.m3u8
 https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
 
