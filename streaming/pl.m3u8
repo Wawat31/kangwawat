@@ -470,7 +470,12 @@ https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m30wXj8_d.webp?maxwidth=760&fidelity=grand" group-title="TV NASIONAL",INEWS
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+##https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 group-title="TV NASIONAL" tvg-name="INEWS" tvg-logo="https://i.imgur.com/m30wXj8_d.webp?maxwidth=760&fidelity=grand",INEWS
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 
 
 # MNCTV
@@ -492,20 +497,24 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RpukoYQ.png" group-title="TV NASIONAL",RCTI
 ##https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
-EXTINF:-1 group-title="TV NASIONAL" tvg-name="" tvg-logo="https://i.imgur.com/RpukoYQ.png",RCTI
+#EXTINF:-1 group-title="TV NASIONAL" tvg-name="" tvg-logo="https://i.imgur.com/RpukoYQ.png",RCTI
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 
-
-
 # GTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pZkZy61_d.webp?maxwidth=760&fidelity=grand" group-title="TV NASIONAL",GTV
+##https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 group-title="TV NASIONAL" tvg-name="GTV" tvg-logo="https://i.imgur.com/pZkZy61_d.webp?maxwidth=760&fidelity=grandinews
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+
 
 # INDOSIAR
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://i.imgur.com/uPCKVBq_d.webp?maxwidth=760&fidelity=grand" group-title="TV NASIONAL",INDOSIAR
