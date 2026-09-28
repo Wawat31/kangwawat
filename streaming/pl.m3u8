@@ -665,7 +665,17 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h314/S2/mnf.m3u8
 
 # ELSHINTA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wf66xVw_d.webp?maxwidth=760&fidelity=grand" group-title="TV NASIONAL",ELSHINTA TV
-https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
+##https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#EXTINF:-1 tvg-id="ElshintaTV.my.id" tvg-name="ElshintaTV" tvg-logo="https://i.imgur.com/Wf66xVw_d.webp?maxwidth=760&fidelity=grand" group-title="TV NASIONAL",ELSHINTA TV
+https://op-flashcon-digdayasd-1.dens.tv/h/h216/stream.m3u8?app_type=web&userid=lite&chname=Elshinta_TV
+https://op-flashcon-digdayasd-1.dens.tv/h/h216/S2/mnf.m3u8
+https://op-flashcon-digdayasd-1.dens.tv/h/h216/S1/mnf.m3u8
+#https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
+
+
 
 # GARUDA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
