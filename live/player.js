@@ -1,6 +1,6 @@
 const stream1 = "https://pul-tenm.gkykp.com/live/hd-en-1-4628468.m3u8?txSecret=9845077b5a2638a7637d7ffc9aa62c8c&txTime=6AD909D0";
-const stream2 = "https://pul-tenm.gkykp.com/live/hd-en-1-4628454.m3u8?txSecret=3f1b6f7c685cd6cb161f4946153f916e&txTime=6AD909D0";
-const stream3 = "https://pul-tenm.gkykp.com/live/hd-en-1-4628459.m3u8?txSecret=abda0379ee5262b92c2267c950b35018&txTime=6AD909D0";
+const stream2 = "https://pul-tenm.gkykp.com/live/hd-en-1-4628459.m3u8?txSecret=abda0379ee5262b92c2267c950b35018&txTime=6AD909D0";
+const stream3 = "https://pul-tenm.gkykp.com/live/hd-en-1-4628454.m3u8?txSecret=3f1b6f7c685cd6cb161f4946153f916e&txTime=6AD909D0";
 
 const art = new Artplayer({
     container: "#player",
