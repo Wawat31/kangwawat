@@ -2,6 +2,8 @@ const stream1 = "https://pul-tenm.gkykp.com/live/hd-en-1-4628396.m3u8?txSecret=d
 const stream2 = "https://pul-tenm.gkykp.com/live/hd-en-1-4628482.m3u8?txSecret=09d535dbdea3624ed62d736c65b093d6&txTime=6ADA5C41";
 const stream3 = "https://pul-tenm.gkykp.com/live/hd-en-1-4628438.m3u8?txSecret=e5ffbf11ca028beade48da8db81fcce3&txTime=6ADA5C41";
 
+let hlsInstance = null;
+
 const art = new Artplayer({
     container: "#player",
     url: stream1,
@@ -12,25 +14,34 @@ const art = new Artplayer({
 
     customType: {
         m3u8(video, url) {
+            if (hlsInstance) {
+                hlsInstance.destroy();
+                hlsInstance = null;
+            }
+
             if (Hls.isSupported()) {
-                const hls = new Hls();
-                hls.loadSource(url);
-                hls.attachMedia(video);
+                hlsInstance = new Hls();
+                hlsInstance.loadSource(url);
+                hlsInstance.attachMedia(video);
             } else if (video.canPlayType("application/vnd.apple.mpegurl")) {
                 video.src = url;
+                video.load();
             }
         }
     }
 });
 
-function changeStream(url, button) {
+window.changeStream = function(url, button) {
+    if (!url) return;
+
     document.querySelectorAll(".menu button").forEach(btn => {
         btn.classList.remove("active");
     });
 
-    button.classList.add("active");
+    if (button) button.classList.add("active");
+
     art.switchUrl(url);
-}
+};
 
 const donors = [
     {name:"Andi", amount:"Rp10.000"},
@@ -46,19 +57,17 @@ const popup = document.getElementById("donation-popup");
 const donorName = document.getElementById("donor-name");
 const donorMessage = document.getElementById("donor-message");
 
-function showDonation(){
+function showDonation() {
+    if (!popup || !donorName || !donorMessage) return;
 
-    const random = donors[Math.floor(Math.random()*donors.length)];
-
+    const random = donors[Math.floor(Math.random() * donors.length)];
     donorName.textContent = random.name;
     donorMessage.textContent = "baru saja berdonasi " + random.amount;
-
     popup.classList.add("show");
 
-    setTimeout(()=>{
-        popup.classList.remove("show");
-    },4000);
-
+    setTimeout(() => popup.classList.remove("show"), 4000);
 }
 
-setInterval(showDonation,12000);
+if (popup && donorName && donorMessage) {
+    setInterval(showDonation, 12000);
+}
