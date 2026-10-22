@@ -1,6 +1,6 @@
 const stream1 = "https://play.lacrima2000.com/live/084b8ae9f47fd1e5.m3u8?wsSecret=2B194F40E68272563D87B8522AD4F22E&wsTime=1792676593";
-const stream2 = "https://pul-tenm.gkykp.com/live/hd-en-1-4628482.m3u8?txSecret=09d535dbdea3624ed62d736c65b093d6&txTime=6ADA5C41";
-const stream3 = "https://pul-tenm.gkykp.com/live/hd-en-1-4628438.m3u8?txSecret=e5ffbf11ca028beade48da8db81fcce3";
+const stream2 = "https://play.lacrima2000.com/live/084b8ae9f47fd1e5.m3u8?wsSecret=2B194F40E68272563D87B8522AD4F22E&wsTime=1792676593";
+const stream3 = "https://play.lacrima2000.com/live/084b8ae9f47fd1e5.m3u8?wsSecret=2B194F40E68272563D87B8522AD4F22E&wsTime=1792676593";
 
 let hlsInstance = null;
 
