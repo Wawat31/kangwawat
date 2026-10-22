@@ -1,9 +1,9 @@
 // WARKOP WAWAT — HLS player + reliable LIVE button handling
 // Replace these with active M3U8 URLs you own or are authorized to use.
 window.WAWAT_STREAMS = {
-  1: "https://pul-tenm.gkykp.com/live/hd-en-1-4628396.m3u8?txSecret=d1d56c69d9a8f91a3e08f055df45b4ef&txTime=6ADA5C41",
-  2: "https://pul-tenm.gkykp.com/live/hd-en-1-4628482.m3u8?txSecret=09d535dbdea3624ed62d736c65b093d6&txTime=6ADA5C41",
-  3: "https://pul-tenm.gkykp.com/live/hd-en-1-4628438.m3u8?txSecret=e5ffbf11ca028beade48da8db81fcce3&txTime=6ADA5C41"
+  1: "https://pul-tenm.gkykp.com/live/sd-1-4630671.m3u8?txSecret=aa9468f20cb8fe673aba2c9711e7cd8f&txTime=6ADB6F68",
+  2: "https://pul-tenm.gkykp.com/live/sd-1-4630671.m3u8?txSecret=aa9468f20cb8fe673aba2c9711e7cd8f&txTime=6ADB6F68",
+  3: "https://pul-tenm.gkykp.com/live/sd-1-4630671.m3u8?txSecret=aa9468f20cb8fe673aba2c9711e7cd8f&txTime=6ADB6F68"
 };
 
 let hlsInstance = null;
