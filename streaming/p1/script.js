@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-  const source = 'https://livecdn-bp-nobar.maypn.stream/stream/27/chunks.m3u8?x-sign=22550ff9bd6a609bae5550bda91007a7&x-time=1771686360&is_vip=true&token=nobar-c1851214-584a-4372-891b-e209f47b0114';
+  const source = 'https://instreams.pro/live3/H12/index.m3u8?st=ZK_UUpv9ix4a1iu9HEyfVA&e=1792875492';
   const video = document.querySelector('video');
 
   // For more options see: https://github.com/sampotts/plyr/#options
