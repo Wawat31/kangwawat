@@ -3,7 +3,7 @@
 window.WAWAT_STREAMS = {
   1: "https://rakettv.uk/api/sp/0qCz1Vk8fGxdU96hQB6IUHBx8o3Rvwv4C3x6Hq1SPyYu6BLRXKdAI7WWpYrq7r6lbksTapT7LguGoFJZ1jx-XrY1htzAxQp_D-Vw0v6YhyIL_7KjkSShHdYa3tsXrW7Dmq8Q42lVczNBwFJqk0Z1DZuS8ovlHcdZGTV-jnSyoLxTdcdi_vpjLJakNbqIT6tFs2RqobhZe2KNTQ-btUi7wKpaN2uPNynqWbeWD6jDZXRfbDQmGbdgRVZPPy-k45XKe9CGSlELmjmGy-U.m3u8",
   2: "https://pul-tenm.gkykp.com/live/hd-en-1-4558637.m3u8?txSecret=aa2290005c877612c1f9939c045ebd80&txTime=6ADE3429",
-  3: "https://tims-nl-0001.duckdns.org/main/secure/31fc307795e3405e258519ad4d1409f9d7ccda92f06f3b0c404094c476bebd70/1792862037/skysport8-nz.m3u8"
+  3: "https://live2.jorvakstreamcache.com/live/channel1.m3u8"
 };
 
 let hlsInstance = null;
