@@ -3,7 +3,7 @@
 window.WAWAT_STREAMS = {
   1: "https://pul-tenm.gkykp.com/live/hd-en-1-4558635.m3u8?txSecret=9331fdc74c5814dced1998d56e1fb0fc&txTime=6ADDC76A",
   2: "https://a117.azplay49.me/hls/streama242313/index.m3u8?cst=b84ca587877901acb6f1eaeea9dec7fd",
-  3: "https://pul-tenm.gkykp.com/live/hd-en-1-4630630.m3u8?txSecret=ee5155d551bc5b16dd48ca7d9a602876&txTime=6ADB8ED1"
+  3: "https://a121.azplay49.me/hls/streama237115/index.m3u8?cst=9b8a218f513e510f1b5000bea2d41e24"
 };
 
 let hlsInstance = null;
