@@ -1,7 +1,7 @@
 // WARKOP WAWAT — HLS player + reliable LIVE button handling
 // Replace these with active M3U8 URLs you own or are authorized to use.
 window.WAWAT_STREAMS = {
-  1: "https://pul-tenm.gkykp.com/live/hd-en-1-4558635.m3u8?txSecret=9331fdc74c5814dced1998d56e1fb0fc&txTime=6ADDC76A",
+  1: "https://rakettv.uk/api/sp/0qCz1Vk8fGxdU96hQB6IUHBx8o3Rvwv4C3x6Hq1SPyYu6BLRXKdAI7WWpYrq7r6lbksTapT7LguGoFJZ1jx-XrY1htzAxQp_D-Vw0v6YhyIL_7KjkSShHdYa3tsXrW7Dmq8Q42lVczNBwFJqk0Z1DZuS8ovlHcdZGTV-jnSyoLxTdcdi_vpjLJakNbqIT6tFs2RqobhZe2KNTQ-btUi7wKpaN2uPNynqWbeWD6jDZXRfbDQmGbdgRVZPPy-k45XKe9CGSlELmjmGy-U.m3u8",
   2: "https://rakettv.uk/api/sp/u1NfIZ5jf49YrmGj_4pRoEtk-J0ZAQhwY56Ir7P-KPdQM5sLsrNoG5eqp0hEBjdu2Q4AON5JjCc4vo12Bs3HjGvwiPg-8sHff7ZnY9MgElOSJRnALXrwrcGFvXmHFpgMkzcKKmGMuZbhKMxGrfOBUZdpzDm2So9UhP0cbyhpw8zlGzXsBrEj6j654UeEUfocU4ps9_kGUbPKgOept_U-kriIV_D8hPFdUBCvaIR697dIJb_KyfEK_xhQuBDcquTu9dUirR5QvJA.m3u8",
   3: "https://tims-nl-0001.duckdns.org/main/secure/31fc307795e3405e258519ad4d1409f9d7ccda92f06f3b0c404094c476bebd70/1792862037/skysport8-nz.m3u8"
 };
