@@ -2,7 +2,7 @@
 // Replace these with active M3U8 URLs you own or are authorized to use.
 window.WAWAT_STREAMS = {
   1: "https://pul-tenm.gkykp.com/live/hd-en-1-4558635.m3u8?txSecret=9331fdc74c5814dced1998d56e1fb0fc&txTime=6ADDC76A",
-  2: "https://a117.azplay49.me/hls/streama242313/index.m3u8?cst=b84ca587877901acb6f1eaeea9dec7fd",
+  2: "https://rakettv.uk/api/sp/u1NfIZ5jf49YrmGj_4pRoEtk-J0ZAQhwY56Ir7P-KPdQM5sLsrNoG5eqp0hEBjdu2Q4AON5JjCc4vo12Bs3HjGvwiPg-8sHff7ZnY9MgElOSJRnALXrwrcGFvXmHFpgMkzcKKmGMuZbhKMxGrfOBUZdpzDm2So9UhP0cbyhpw8zlGzXsBrEj6j654UeEUfocU4ps9_kGUbPKgOept_U-kriIV_D8hPFdUBCvaIR697dIJb_KyfEK_xhQuBDcquTu9dUirR5QvJA.m3u8",
   3: "https://tims-nl-0001.duckdns.org/main/secure/31fc307795e3405e258519ad4d1409f9d7ccda92f06f3b0c404094c476bebd70/1792862037/skysport8-nz.m3u8"
 };
 
