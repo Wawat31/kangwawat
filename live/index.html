@@ -23,7 +23,31 @@
     <button class="mobile-menu-toggle" id="mobileMenuToggle" type="button" aria-label="Buka navigasi"><i class="fa-solid fa-bars"></i></button>
   </header>
 
-<iframe src="https://play.meth-streams-hd.cfd/nhl/1475" width="100%" height="100%" frameborder="0" scrolling="no" allowfullscreen allow="autoplay; fullscreen; encrypted-media; picture-in-picture; clipboard-read; clipboard-write"></iframe>
+<div class="player-container">
+  <iframe
+    src="https://play.meth-streams-hd.cfd/epl/1535"
+    allowfullscreen
+    scrolling="no"
+    allow="autoplay; fullscreen; encrypted-media; picture-in-picture"
+    referrerpolicy="strict-origin-when-cross-origin">
+  </iframe>
+</div>
+
+<style>
+.player-container {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  background: #000;
+}
+
+.player-container iframe {
+  width: 100%;
+  height: 100%;
+  border: 0;
+  display: block;
+}
+</style>
 
   <div class="app-layout">
     <aside class="sidebar" id="sidebar">
