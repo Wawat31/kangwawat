@@ -2,8 +2,8 @@
 // Replace these with active M3U8 URLs you own or are authorized to use.
 window.WAWAT_STREAMS = {
   1: "https://pul-tenm.gkykp.com/live/hd-en-1-4621354.m3u8?txSecret=e5cf7cce8ea56a3b2ca2ae8e7c4048cc&txTime=6AEC3618",
-  2: "https://tims-nl-0001.duckdns.org/main/secure/568f834352478786b06afe263cfb91f9f1d31df0de26f4c302e3ef510e7622ba/1792871232/skysportsmainevent-uk.m3u8",
-  3: "https://instreams.pro/live3/H12/index.m3u8?st=ZK_UUpv9ix4a1iu9HEyfVA&e=1792875492"
+  2: "https://pul-tenm.gkykp.com/live/hd-en-1-4621354.m3u8?txSecret=e5cf7cce8ea56a3b2ca2ae8e7c4048cc&txTime=6AEC3618",
+  3: "https://pul-tenm.gkykp.com/live/hd-en-1-4621354.m3u8?txSecret=e5cf7cce8ea56a3b2ca2ae8e7c4048cc&txTime=6AEC3618"
 };
 
 let hlsInstance = null;
