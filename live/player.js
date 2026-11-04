@@ -1,7 +1,7 @@
 // WARKOP WAWAT — HLS player + reliable LIVE button handling
 // Replace these with active M3U8 URLs you own or are authorized to use.
 window.WAWAT_STREAMS = {
-  1: "https://d.meth-streams-hd.cfd/live/960.m3u8?_=1793049500279",
+  1: "https://tvbersama.homes/live/melbourne-victory-vs-persib-bandung-bigmatch-tCF7iVG",
   2: "https://tims-nl-0001.duckdns.org/main/secure/568f834352478786b06afe263cfb91f9f1d31df0de26f4c302e3ef510e7622ba/1792871232/skysportsmainevent-uk.m3u8",
   3: "https://instreams.pro/live3/H12/index.m3u8?st=ZK_UUpv9ix4a1iu9HEyfVA&e=1792875492"
 };
