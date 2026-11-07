@@ -1,7 +1,7 @@
 // WARKOP WAWAT — HLS player + reliable LIVE button handling
 // Replace these with active M3U8 URLs you own or are authorized to use.
 window.WAWAT_STREAMS = {
-  1: "https://pul-tenm.gkykp.com/live/hd-en-1-4621354.m3u8?txSecret=e5cf7cce8ea56a3b2ca2ae8e7c4048cc&txTime=6AEC3618",
+  1: "https://gate4.st/live3/H12/index.m3u8?st=LtIeg067OXOSjkahIFz7oQ&e=1794080519",
   2: "https://pul-tenm.gkykp.com/live/hd-en-1-4621354.m3u8?txSecret=e5cf7cce8ea56a3b2ca2ae8e7c4048cc&txTime=6AEC3618",
   3: "https://pul-tenm.gkykp.com/live/hd-en-1-4621354.m3u8?txSecret=e5cf7cce8ea56a3b2ca2ae8e7c4048cc&txTime=6AEC3618"
 };
